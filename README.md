@@ -35,7 +35,8 @@ The code used for generating the embeddings for this study can be found in `gene
 ## References
 
 If you use Friends-QIA please cite:
-`@inproceedings{damgaard-etal-2021-id,
+```
+@inproceedings{damgaard-etal-2021-id,
     title = "{``}{I}{'}ll be there for you{''}: The One with Understanding Indirect Answers",
     author = "Damgaard, Cathrine  and
       Toborek, Paulina  and
@@ -46,11 +47,13 @@ If you use Friends-QIA please cite:
     year = "2021",
     address = "Online",
     publisher = "Association for Computational Linguistics",
-}`
+}
+```
 
 
 For Circa please cite:
-`@inproceedings{louis-etal-2020-id,
+```
+@inproceedings{louis-etal-2020-id,
     title = "{``}{I}{'}d rather just go to bed{''}: Understanding Indirect Answers",
     author = "Louis, Annie  and
       Roth, Dan  and
@@ -63,5 +66,6 @@ For Circa please cite:
     url = "https://www.aclweb.org/anthology/2020.emnlp-main.601",
     doi = "10.18653/v1/2020.emnlp-main.601",
     pages = "7411--7425"
-}`
+}
+```
 
