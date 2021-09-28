@@ -30,3 +30,38 @@ The crowds study was inspired by the paper by [Filipe Rodrigues and Francisco C.
 
 The generated BERT embeddings are not included in the repository. They were created by following this [article](https://huggingface.co/bert-base-cased) and used as input to the CNN models. Due to preprocessing issues, the instance number `4678` was removed from the dataset (train+tune set), before creating the embeddings.
 The code used for generating the embeddings for this study can be found in `generate_bert_emeddings.py`.
+
+
+## References
+
+If you use Friends-QIA please cite:
+`@inproceedings{damgaard-etal-2021-id,
+    title = "{``}{I}{'}ll be there for you{''}: The One with Understanding Indirect Answers",
+    author = "Damgaard, Cathrine  and
+      Toborek, Paulina  and
+      Eriksen, Trine  and
+      Plank, Barbara",
+    booktitle = "Proceedings of the 2nd Workshop on Computational Approaches to Discourse (CODI) at EMNLP",
+    month = nov,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+}`
+
+
+For Circa please cite:
+`@inproceedings{louis-etal-2020-id,
+    title = "{``}{I}{'}d rather just go to bed{''}: Understanding Indirect Answers",
+    author = "Louis, Annie  and
+      Roth, Dan  and
+      Radlinski, Filip",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.601",
+    doi = "10.18653/v1/2020.emnlp-main.601",
+    pages = "7411--7425"
+}`
+
