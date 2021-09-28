@@ -29,7 +29,7 @@ The results for the base CNN models without using BERT embeddings were obtained 
 The crowds study was inspired by the paper by [Filipe Rodrigues and Francisco C. Pereira](https://arxiv.org/pdf/1709.01779.pdf) and the code is strongly based on their implementation which can be found in this [GitHub repository](https://github.com/fmpr/CrowdLayer).
 
 The generated BERT embeddings are not included in the repository. They were created by following this [article](https://huggingface.co/bert-base-cased) and used as input to the CNN models. Due to preprocessing issues, the instance number `4678` was removed from the dataset (train+tune set), before creating the embeddings.
-The code used for generating the embeddings for this study can be found in `generate_bert_emeddings.py`.
+The code used for generating the embeddings for this study can be found in `generate_bert_embeddings.py`.
 
 
 ## References
