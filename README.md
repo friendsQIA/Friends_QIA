@@ -36,7 +36,7 @@ The code used for generating the embeddings for this study can be found in `gene
 
 If you use Friends-QIA please cite:
 ```
-@inproceedings{damgaard-etal-2021-id,
+@inproceedings{friendsqia,
     title = "{``}{I}{'}ll be there for you{''}: The One with Understanding Indirect Answers",
     author = "Damgaard, Cathrine  and
       Toborek, Paulina  and
