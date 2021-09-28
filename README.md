@@ -1,6 +1,8 @@
 # Friends_QIA
 
-This repository contains the code and datasets used in the study focused on the task of classification of indirect answers to polar questions.
+This repository was created for a study on understanding indirect answers in NLP. We release a new dataset, `Friends-QIA` to enable progress on this task.
+
+The repository contains the code and datasets used in the study focused on the task of classification of indirect answers to polar questions.
 
 The two datasets (Circa and Friends) used for the study can be found in the `Data` folder: `Circa_data` and `Friends_data`, respectively. `Friends_data` is further divided into `Original_QA_category_files` with the original files containing the data in the original format divided by category (used for Exploratory Data Analysis) and `Final_QA_datasets`, with the dataset split into train, tune, dev and test sets, used for the models. The Circa dataset was originally created by researchers at [Google](https://github.com/google-research-datasets/circa), the version presented here is split into train, tune, dev and test sets and is structured differently.
 
