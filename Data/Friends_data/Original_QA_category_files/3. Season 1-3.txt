@@ -1,0 +1,2931 @@
+﻿Category 3: Season 1-3
+
+
+Season 1 - Episode 1
+Original:
+Monica: -leg?
+Paul: (laughing) That's one way! Me, I- I went for the watch.
+Modified:
+Monica: You mean breaking her -leg?
+Paul: That's one way! Me, I- I went for the watch.
+Annotation: 2 2 3
+
+
+Original:
+Chandler: Did you make it, or are you just serving it?  
+Rachel: I'm just serving it.
+Modified:
+Chandler: Did you make it?
+Rachel: I'm just serving it.
+Annotation: 2 2 2
+
+
+Original:
+Chandler: Did you make it, or are you just serving it?  
+Rachel: I'm just serving it.
+Modified:
+Chandler: Are you just serving it?
+Rachel: I'm just serving it.
+Annotation: 1 1 1
+
+
+Original:
+Monica: So you wanna tell us now, or are we waiting for four wet bridesmaids?
+Rachel: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- (to the waitress that brought her coffee)Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. (to Monica) So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+Modified:
+Monica: So you wanna tell us now?
+Rachel: Oh God... well, it started about a half hour before the wedding. I was in the room where we were keeping all the presents, and I was looking at this gravy boat. This really gorgeous Lamauge gravy boat. When all of a sudden- Sweet 'n' Lo?- I realized that I was more turned on by this gravy boat than by Barry! And then I got really freaked out, and that's when it hit me: how much Barry looks like Mr. Potato Head. Y'know, I mean, I always knew looked familiar, but... Anyway, I just had to get out of there, and I started wondering 'Why am I doing this, and who am I doing this for?'. So anyway I just didn't know where to go, and I know that you and I have kinda drifted apart, but you're the only person I knew who lived here in the city.
+Annotation: 1 1 1
+
+
+Original:
+Monica: (horrified) Really?
+Ross: (normal voice) No, go on! It's Paul the Wine Guy!
+Modified:
+Monica: Really? Do you want me to stay?
+Ross: Go on! It's Paul the Wine Guy!
+Annotation: 2 2 2
+
+
+Original:
+Paul: Isn't there?
+Monica: Yeah... yeah, I think there is. -What were you gonna say?
+Modified:
+Paul: Isn't there going to be a fifth date?
+Monica: I think there is.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 2
+Original:
+Carol: A lesbian? 
+Ross: Well... you never know. How's, um.. how's the family?
+Modified:
+Carol: You mean if I’m still… A lesbian? 
+Ross: Well... you never know.
+Annotation: 1 1 4
+
+
+Original:
+Ross: Still, you- you say Minnie, you hear Mouse. Um, how about, um.. how about Julia?
+Susan: We agreed on Minnie.
+Modified:
+Ross: Um, how about, um.. Do you want to name the baby Julia?
+Susan: We agreed on Minnie.
+Annotation: 2 2 2
+
+
+Original:
+Joey: Yeah, right!.......Y'serious?
+Rachel: Everything you need to know is in that first kiss.
+Modified:
+Joey: Y'serious? Kissing is as important as any part of it?
+Rachel: Everything you need to know is in that first kiss.
+Annotation: 1 1 1
+
+
+Original:
+Ross: Does she.
+Marsha: He's out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!
+Modified:
+Ross: She has issues?
+Marsha: Her husband’s out banging other women over the head with a club, while she sits at home trying to get the mastodon smell out of the carpet!
+Annotation: 1 1 1
+
+
+Original:
+Ross: -she, of course, she- uh- familiar with our.. special situation?
+Carol: Yes, and she's very supportive.
+Modified:
+Ross: Is she familiar with our.. special situation?
+Carol: And she's very supportive.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: (hesitates) Are you sure?
+Barry: Yeah! It's fine, it's fine. Robbie's gonna be here for hours.
+Modified:
+Rachel: Are you sure I can come in?
+Barry: It's fine, it's fine. Robbie's gonna be here for hours.
+Annotation: 1 1 1
+
+
+Original:
+Ross: Marlon?!
+Carol: -if it's a boy, Minnie if it's a girl.
+Modified:
+Ross: You want to name the baby Marlon?!
+Carol: If it's a boy, Minnie if it's a girl.
+Annotation: 3 3 3
+
+
+Original:
+Ross: ...As in Mouse?
+Carol: As in my grandmother.
+Modified:
+Ross: You mean Minnie...as in Mouse?
+Carol: As in my grandmother.
+Annotation: 2 2 2
+
+
+Season 1 - Episode 3
+Original:
+Lizzie: Saltines? 
+Phoebe: No, but would you like a thousand dollars and a football phone? 
+Modified:
+Lizzie: Do you want some saltines? 
+Phoebe: But would you like a thousand dollars and a football phone? 
+Annotation: 4 4 2
+
+
+Original:
+Monica: Can I ask you guys a question? D'you ever think that Alan is maybe.. sometimes..
+Rachel: Well, no. That's impossible. You can never be too Alan.
+Modified:
+Monica: Do you ever think that Alan is maybe.. sometimes.. a little too Alan?
+Rachel: That's impossible. You can never be too Alan.
+Annotation: 2 2 2
+
+
+Original:
+Monica: Relieved?
+Alan: Yeah, well, I had a great time with you.. I just can't stand your friends.
+Modified:
+Monica: You are relieved that I’m breaking up with you?
+Alan: Well, I had a great time with you.. I just can't stand your friends.
+Annotation: 1 4 1
+
+
+Original:
+Joey: Y'miss it?
+Chandler: Nah, not so much. Alright, now we smoke. (Takes a puff.) Oh.. my.. God. (He continues to smoke.)
+Modified:
+Joey: Y'miss smoking?
+Chandler: Not so much.
+Annotation: 2 1 2
+
+
+Original:
+Ross: A thumb?!
+Phoebe: I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!
+Modified:
+Ross: There’s a thumb in it?!
+Phoebe: I know! I know, I opened it up and there it was, just floating in there, like this tiny little hitch-hiker!
+Annotation: 1 1 1
+
+
+Season 1 - Episode 4
+Original:
+Joey: With Carol? (Ross gives him a look.) Oh. 
+Chandler: So in your whole life, you've only been with one—(He gets a look too)—oh. 
+Modified:
+Joey: It was your first time… With Carol?
+Chandler: So in your whole life, you've only been with one—oh. 
+Annotation: 1 1 4
+
+
+Original:
+Phoebe: Yeah? 
+Monica: Yeah. I think you have to draw him out. And then- when you do- he's a preppy animal.
+Modified:
+Phoebe: Yeah? You think he’s shy?
+Monica: I think you have to draw him out. And then- when you do- he's a preppy animal.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: Eleven days before Halloween.. all the good costumes are gone? 
+Ross: Today's the day Carol and I first.. consummated our physical relationship. (Joey is puzzled.) Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+Modified:
+Chandler: October twentieth is… Eleven days before Halloween.. all the good costumes are gone?
+Ross: Today's the day Carol and I first.. consummated our physical relationship. Sex. ..You know what, I-I'd better pass on the game. I think I'm just gonna go home and think about my ex-wife and her lesbian lover.
+Annotation: 2 2 2
+
+
+Original:
+Rachel: ...Jack from downstairs?
+Phoebe: No, Jack and the Beanstalk.
+Modified:
+Rachel: You mean Jack from downstairs?
+Phoebe: Jack and the Beanstalk.
+Annotation: 2 4 2
+
+
+Original:
+Pizza Guy: Hi, one, uh, mushroom, green pepper and onion?
+Rachel: (miserably) No, no, that's not what we ordered... We ordered a fat-free crust with extra cheese.
+Modified:
+Pizza Guy: Hi, did you order one, uh, mushroom, green pepper and onion?
+Rachel: That's not what we ordered... We ordered a fat-free crust with extra cheese.
+Annotation: 2 2 2
+
+
+Original: 
+Joey: -Peaches?
+Ross: Actually, nectarines, but basically…
+Modified: 
+Joey: You had peaches?
+Ross: Actually, nectarines, but basically…
+Annotation: 2 2 2
+
+
+Original: 
+Monica: White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?
+Rachel: Oh, him, the little guy? Oh, I love him!
+Modified: 
+Monica: Do you remember the White House adviser? Clinton's campaign guy? The one with the great hair, sexy smile, really cute butt?
+Rachel: Oh, him, the little guy? Oh, I love him!
+Annotation: 1 1 1
+
+
+Season 1 - Episode 5
+Original:
+Ross: So what're you saying here? I should shave again, pick up some wine, what?
+Chandler: Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear—you want it to be dirty?
+Modified:
+Ross: So what're you saying here? I should shave again, pick up some wine?
+Chandler: Well, you may wanna rethink the dirty underwear. This is basically the first time she's gonna see your underwear—you want it to be dirty?
+Annotation: 2 2 2
+
+
+Original:
+Rachel: (holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+Ross: (visibly nervous) Uh, that, that, that would be a judgment call.
+Modified:
+Rachel: Ok, Well, what about these are white cotton panties? Would they go with whites?
+Ross: Uh, that, that, that would be a judgment call.
+Annotation: 4 4 3
+
+
+Original:
+Rachel: (holds a pair of panties in front of Ross) Ok, Well, what about these are white cotton panties. Would they go with whites or delicates?
+Ross: (visibly nervous) Uh, that, that, that would be a judgment call.
+Modified:
+Rachel: Ok, Well, what about these are white cotton panties? Would they go with delicates?
+Ross: Uh, that, that, that would be a judgment call.
+Annotation: 4 4 3
+
+
+Original:
+Monica: Close? She's got her tongue in his ear.
+Joey: Oh, like you've never gotten a little rambunctious with Ross.
+Modified:
+Monica: You think they’re just close? She's got her tongue in his ear.
+Joey: Oh, like you've never gotten a little rambunctious with Ross.
+Annotation: 1 4 1
+
+
+Original:
+Monica: Really?
+Joey: Yeah. I'm thinking, if we put our heads together, between the two of us, we can break them up.
+Modified:
+Monica: Really? He likes me?
+Joey: I'm thinking, if we put our heads together, between the two of us, we can break them up.
+Annotation: 4 5 4
+
+
+Original:
+Chandler: Oh, and uh, the fabric softener?
+Ross: Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.
+Modified:
+Chandler: Oh, and uh, you’re gonna bring the fabric softener?
+Ross: Ok, I can pick something else up on the way.
+Annotation: 2 2 2
+
+
+Original:
+Chandler: Oh, and uh, the fabric softener?
+Ross: Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear. Ok, I can pick something else up on the way.
+Modified:
+Chandler: Oh, and uh, you’re gonna bring the fabric softener?
+Ross: Ok, ok, now what is wrong with my Snuggles? What, it says I'm a sensitive, warm kinda guy, you know, like a warm, fuzzy bear.
+Annotation: 1 1 1
+
+
+Original: 
+Angela: Yeah, isn't he?
+Monica: It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.
+Modified: 
+Angela: Isn't he terrific?
+Monica: It is so great to meet a guy who is smart and funny, and has an emotional age beyond, like eight.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 6
+Original:
+Rachel: Really? Just casually strewn about in that reckless haphazard manner?
+Monica: Doesn't matter, I'll get 'em tomorrow. Or not. Whenever. (He goes to her room.)
+Modified:
+Rachel: Really? You’re gonna leave your shoes here just casually strewn about in that reckless haphazard manner?
+Monica: Doesn't matter, I'll get 'em tomorrow. Or not. Whenever.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: What, Ethan? He got to spend the whole day with you!
+Aurora: No, it's-it's Andrew.
+Modified:
+Chandler: What, you’re meeting Ethan? He got to spend the whole day with you!
+Aurora: It's-it's Andrew.
+Annotation: 2 2 2
+
+
+Original:
+Joey: Me?
+Director: That would work.
+Modified:
+Joey: You want me to lose the robe?
+Director: That would work.
+Annotation: 1 1 1
+
+
+Original: 
+Aurora: ...Like, ...all of them?
+Chandler: C'mon, we're great together, why not?
+Modified: 
+Aurora: ...Like, ...you mean lose all of the other guys?
+Chandler: C'mon, we're great together, why not?
+Annotation: 1 1 1
+
+
+Season 1 - Episode 7
+Original:
+Rachel: Bob Buttons?
+Mr. Heckles: Mmm. Bob Buttons. Here, Bob Buttons.
+Modified:
+Rachel: The cat’s name is Bob Buttons?
+Mr. Heckles: Mmm. Bob Buttons. Here, Bob Buttons.
+Annotation: 1 1 1
+
+
+Original:
+Paolo: Bed?
+Ross: No, no, that's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.
+Modified:
+Paolo: You mean if I get in the… Bed?
+Ross: That's not where I was going. Er, if you get in the... way, of us becoming a thing, then I would be, well, very sad.
+Annotation: 2 2 2
+
+
+Original:
+Ross: I will, I will. See, I'm waiting for the right moment. (Joey looks at him) What? What, now?
+Joey: Yeeeeaaaahhh! What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...' (Rachel comes into the room behind them)
+Modified:
+Ross: See, I'm waiting for the right moment. What? What, you think the right time is now?
+Joey: What's messing you up? The wine? The candles? The moonlight? You've just got to go up to her and say, 'Rachel, I think that...'
+Annotation: 1 1 1
+
+
+Original:
+Rachel: Really?
+Ross: Mmmm.
+Modified:
+Rachel: Really? You see big passion in my future?
+Ross: Mmmm.
+Annotation: 1 4 4
+
+
+Original:
+Rachel: I mean, do you think there are people who go through life never having that kind of...
+Ross: Probably. But you know, I'll tell you something. Passion is way overrated.
+Modified:
+Rachel: I mean, do you think there are people who go through life never having that kind of passion?...
+Ross: Probably. But you know, I'll tell you something. Passion is way overrated.
+Annotation: 1 1 1
+
+
+Original:
+Phoebe: (trying to hold back the struggling cat) He seems to hate you. Are you sure?
+Mr. Heckles: Yeah, it's my cat. Give me my cat.
+Modified:
+Phoebe: He seems to hate you. Are you sure it’s your cat?
+Mr. Heckles: It's my cat. Give me my cat.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 8
+Original:
+Chandler: He's a he?
+Shelley: Well yeah! ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...(backs out of the room) Okay, goodbye…
+Modified:
+Chandler: The date you found me, he's a he?
+Shelley: Well ...Oh God. I- just- I thought- Good, Shelley. I'm just gonna go flush myself down the toilet now...
+Annotation: 1 1 1
+
+
+Original:
+Chandler: ...Couldn't enjoy a cup of noodles after that. I mean, is that ridiculous? Can you believe she actually thought that?
+Rachel: Um... yeah. Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be...
+Modified:
+Chandler: Can you believe she actually thought that I was gay?
+Rachel: Um… Well, I mean, when I first met you, y'know, I thought maybe, possibly, you might be...
+Annotation: 1 1 1 
+
+
+Original:
+Chandler: You did?
+Rachel: Yeah, but then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not.
+Modified:
+Chandler: When you first met me, you thought I was gay?
+Rachel: But then you spent Phoebe's entire birthday party talking to my breasts, so then I figured maybe not.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: You're kidding! Did you tell her I wasn't?
+Ross: No. No, it's just 'cause, uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so…
+Modified:
+Chandler: Did you tell her I wasn't gay?
+Ross: Uh, I kinda wanted to go out with her too, so I told her, actually, you were seeing Bernie Spellman... who also liked her, so…
+Annotation: 2 2 2
+
+
+Original:
+Chandler: He is?
+Lowell: Yup, and waaay out of your league. (Exits)
+Modified:
+Chandler: He is gay?
+Lowell: And waaay out of your league.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: So, um, did she...
+Ross: Twice.
+Modified:
+Rachel: So, um, did she pass away?
+Ross: Twice.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 9
+Original:
+Chandler: I thought it was $98.50.
+Rachel: Yeah, well it was. I, I broke a cup.
+Modified:
+Chandler: I thought it was $98.50?
+Rachel: Well it was. I, I broke a cup.
+Annotation: 1 1 1
+
+
+Original:
+Terry: An advance?
+Rachel: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
+Modified:
+Terry: You’re asking for an advance in your salary?
+Rachel: It's so that I can spend Thanksgiving with my family. See, every year we go skiing in Vail, and normally my father pays for my ticket, but I sort of started the whole independence thing, you know, which is actually why I took this job.
+Annotation: 1 1 1
+
+
+Original:
+Ross: The uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+Susan: What, you don't think they can hear sounds in there?
+Modified:
+Ross: You’re talking to the uh, the baby that hasn't been born yet? Wouldn't that mean you're... crazy?
+Susan: What, you don't think they can hear sounds in there?
+Annotation: 2 4 2
+
+
+Original:
+Ross: Really?
+Susan: But um, we just refer to you as Bobo the Sperm Guy.
+Modified:
+Ross: Really? You talk about me?
+Susan: But um, we just refer to you as Bobo the Sperm Guy.
+Annotation: 1 1 1
+
+
+Original:
+Girl: We did?
+Joey: Yeah, at Macy's. You were the Obsession girl, right? I was the Aramis guy. (pretends to spray cologne) Aramis? Aramis?
+Modified:
+Girl: We used to work together?
+Joey: At Macy's. You were the Obsession girl, right? I was the Aramis guy.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 10
+Original:
+Phoebe: Minsk?
+Max: Minsk. It's in Russia.
+Modified:
+Phoebe: You’re going to Minsk?
+Max: Minsk. It's in Russia.
+Annotation: 1 1 1
+
+
+Original:
+David: Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?
+Phoebe: I can hop. (She hops onto the table)
+Modified:
+David: You want me to actually throw you?
+Phoebe: I can hop.
+Annotation: 2 2 2
+
+
+Original:
+David: Okay, what the hell, what the hell. (Sweeps the remaining papers off the desk and grabs Phoebe) You want me to actually throw you or you-you wanna just hop?
+Phoebe: I can hop. (She hops onto the table)
+Modified:
+David: You-you wanna just hop?
+Phoebe: I can hop.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 11
+Original:
+Monica: Oh, I don't know. Maybe, um, "That was nice?" Admit something to me? "I'll call you?" 
+Coma Guy: Alright, I'll call you.
+Modified:
+Monica: Maybe, um, you could say "I'll call you?" 
+Coma Guy: Alright, I'll call you.
+Annotation: 1 1 1
+
+
+Original:
+Ross: The girl on the cover with her nipples showing?
+Mrs. Bing: No. Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off.
+Modified:
+Ross: Is it because of the girl on the cover with her nipples showing?
+Mrs. Bing: Because I know how to write men that women fall in love with. Believe me, I cannot sell a Paolo. People will not turn three hundred twenty-five pages for a Paolo. C'mon, the guy's a secondary character, a, y'know, complication you eventually kill off.
+Annotation: 2 2 2
+
+
+Original:
+Ross: The guy on the cover with his nipples showing?
+Mrs. Bing: No, it's you!
+Modified:
+Ross: The hero is… The guy on the cover with his nipples showing?
+Mrs. Bing: It's you!
+Annotation: 2 2 2
+
+
+Original:
+Mrs. Bing: There y'go. Ross?
+Ross: Uh, I'm not really a shot drinking kinda guy.
+Modified:
+Mrs. Bing: Ross? Wanna do shots?
+Ross: Uh, I'm not really a shot drinking kinda guy.
+Annotation: 2 2 2
+
+
+Season 1 - Episode 12
+Original:
+Monica: So, did I hear Poconos?
+Rachel: Yes, my sister's giving us her place for the weekend.
+Modified:
+Monica: So, you’re going to Poconos?
+Rachel: My sister's giving us her place for the weekend.
+Annotation: 1 4 1
+
+
+Original:
+Ross: (making flinging gestures with hands) Oh, tell me, tell me, is everything, uhh....?
+Carol: Totally and completely healthy!
+Modified:
+Ross: Oh, tell me, tell me, is everything, uhh.... alright with the baby?
+Carol: Totally and completely healthy!
+Annotation: 1 1 1
+
+
+Original:
+Paolo: Uh, I am, uh, being naked?
+Phoebe: Um, that's really your decision, I mean, some people prefer, you know, to take off...oh whoops! You're being naked!
+Modified:
+Paolo: Uh, I am, uh, supposed to be naked?
+Phoebe: Um, that's really your decision, I mean, some people prefer, you know, to take off...
+Annotation: 3 4 3 
+
+
+Original:
+Ross: What, now?
+Joey: Yes, now is when you swoop! You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, She's gotta know that you're everything he's not! You're like, like the anti-Paolo!
+Modified:
+Ross: What, you think I should swoop in now?
+Joey: Now is when you swoop! You gotta make sure that when Paolo walks out of there, the first guy Rachel sees is you, she's gotta know that you're everything he's not! You're like, like the anti-Paolo!
+Annotation: 1 1 1
+
+
+Season 1 - Episode 13
+Original:
+Monica: Oh! So you think I'm a failure!
+Ross: Nonono, thatthat's not what I was saying…
+Modified:
+Monica: Oh! So you think I'm a failure?!
+Ross: Thatthat's not what I was saying…
+Annotation: 2 2 2
+
+
+Original:
+Joey: (Snatches the phone) Hey Ma. Listen, I made the appointment with Dr. Bazida, and... Excuse me? (To his dad) Did you know this isn't Ma?
+Mr. Tribbiani: Her name's Ronni. She's a pet mortician.
+Modified:
+Joey: Did you know this isn't Ma on the phone?
+Mr. Tribbiani: Her name's Ronni. She's a pet mortician.
+Annotation: 1 1 1
+
+
+Original:
+Ronni: Oh no, not you, big Joey. Oh my God, you're so much cuter than your pictures! (Joey stares at her) I-I'm, I'm Ronni....Cheese Nip?
+Chandler: Uh, Joey's having an embolism, but I'd go for a Nip, y'know?
+Modified:
+Ronni: Want a cheese nip?
+Chandler: Uh, Joey's having an embolism, but I'd go for a Nip, y'know?
+Annotation: 1 1 1
+
+
+Season 1 - Episode 14
+Original:
+Rachel: Really?
+Fireman No. 2: Oh, sure, Valentine's is our busiest night of the year.
+Modified:
+Rachel: Really? We’re your third call tonight?
+Fireman No. 2: Oh, sure, Valentine's is our busiest night of the year.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: (surprised) It is?
+Janice: Mmm-hmm. Because I know that this isn't the end.
+Modified:
+Chandler: It is fine?
+Janice: Mmm-hmm. Because I know that this isn't the end.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 15
+Original:
+Joey: Whoa! And the... (gestures with hands) huh-huh?
+Ross: Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...
+Modified:
+Joey: Whoa! And did you do the... huh-huh?
+Ross: Well, ahem... you know, by the time we'd finished with all the dirty talk, it was kinda late... and we were both kind of exhausted, so uh...
+Annotation: 2 2 2
+
+
+Original:
+Ross: (embarrassed) Wha... what, here?
+Celia: Say something..... hot.
+Modified:
+Ross: Wha... what, here? You want me to talk dirty here?
+Celia: Say something..... hot.
+Annotation: 1 1 1
+
+
+Original:
+Joey: How about Tony's? If you can finish a 32-ounce steak, it's free.
+Ross: OK, ahem, hey, does anybody know a good place if you're not dating a puma?
+Modified:
+Joey: You could go to Tony's?
+Ross: OK, ahem, hey, does anybody know a good place if you're not dating a puma?
+Annotation: 2 2 2
+
+
+Original:
+Monica: Yeah, well, is that better?
+Joey: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+Modified:
+Monica: Yeah, well, is creamier better?
+Joey: I don't know. We're talking about whipped fish, Monica. I'm just happy I'm keeping it down, y'know?
+Annotation: 4 4 4
+
+
+Original:
+Rachel: (hurt) Waitressing?
+Monica: Well... of course I thought of you! But... but…
+Modified:
+Rachel: You asked someone else to help you with… Waitressing?
+Monica: Well... of course I thought of you! But... but…
+Annotation: 1 1 1
+
+
+Original:
+Joey: (in disbelief) Vulva?
+Ross: Alright, I panicked, alright? She took me by surprise. You know, but it wasn't a total loss. I mean, we ended up cuddling.
+Modified:
+Joey: You said Vulva?
+Ross: Alright, I panicked, alright? She took me by surprise. You know, but it wasn't a total loss. I mean, we ended up cuddling.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: Again?
+Joey: And again, and again, and again... (phone rings, he answers) Hello? (hands phone to Chandler) And again.
+Modified:
+Chandler: He called again?
+Joey: And again, and again, and again...
+Annotation: 1 1 1
+
+
+Original:
+Rachel: Career counselor?
+Chandler: Hey, you guys all know what you want to do.
+Modified:
+Rachel: You’re seeing a career counselor?
+Chandler: Hey, you guys all know what you want to do.
+Annotation: 1 1 4
+
+
+Season 1 - Episode 16
+Original:
+Rachel: Okay... Let me put it this way. Anything from Crabtree and Evelyn?
+Phoebe: Ooh! Bath salts would be nice.
+Modified:
+Rachel: Can I get you anything from Crabtree and Evelyn?
+Phoebe: Ooh! Bath salts would be nice.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: This is just occurring to you?
+Ross: I always knew I was havin’ a baby, I just never realised the baby was having me.
+Modified:
+Rachel: This is just occurring to you, that you are going to be a father?
+Ross: I always knew I was havin’ a baby, I just never realised the baby was having me.
+Annotation: 1 1 4
+
+
+Original:
+Nina: I am?
+Chandler: Sure, why not?
+Modified:
+Nina: I am getting a raise?
+Chandler: Sure, why not?
+Annotation: 1 1 1
+
+
+Season 1 - Episode 17
+Original:
+Nurse: Well, you know your insurance will cover that.
+Rachel: (as Monica) Yeah, I know... (mirroring her friend) ..I'm I'm just not that bright either.
+Modified:
+Nurse: Well, you know your insurance will cover that?
+Rachel: I know... I'm I'm just not that bright either.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 18
+Original:
+Rachel: (upset) Oh my Goood! Oh, do you think it's on all of them?
+Joey: Oh no, I'm sure the Xerox machine caught a few.
+Modified:
+Rachel: Oh, do you think the spelling mistakes are on all of the copies?
+Joey: I'm sure the copy machine caught a few.
+Annotation: 2 2 2 
+
+
+Original:
+Monica: So I wouldn't need any, right? Cause I have a straight.
+Rachel: Oh, good for you!
+Modified:
+Monica: So I wouldn't need any new cards, right? Cause I have a straight.
+Rachel: Oh, good for you!
+Annotation: 4 4 4
+
+
+Original:
+Ross: Alright, now, you sure? Phoebe just threw away two jacks because they didn't look happy...
+Phoebe: But... I'm ready, so, just deal.
+Modified:
+Ross: Alright, now, you sure you are ready?
+Phoebe: I'm ready, so, just deal.
+Annotation: 1 1 1
+
+
+Original:
+Joey: You know what, you guys? It's their first time, why don't we just forget about the money, alright?
+Monica: Hell no, we'll pay!
+Modified:
+Joey: You know what, you guys? It's their first time, why don't we just forget about the money, alright?
+Monica: We'll pay!
+Annotation: 2 2 4
+
+
+Season 1 - Episode 19
+Original:
+Chandler: Yes have you seen any?
+Woman No. 1: No. No, haven't seen a monkey. Do you know anything about fixing radiators?
+Modified:
+Chandler: Yes have you seen a monkey?
+Woman No. 1: Haven't seen a monkey.
+Annotation: 2 2 2
+
+
+Original:
+Ross: Really.
+Rachel: No. Oh, oh, I guess it would be different if I were- with somebody.
+Modified:
+Ross: Really. You are happy for them?
+Rachel: Oh, oh, I guess it would be different if I were- with somebody.
+Annotation: 4 4 4
+
+
+Season 1 - Episode 20
+Original:
+Joey: Her answer machine?
+Chandler: No, interestingly enough her leaf blower picked up.
+Modified:
+Joey: You got her answering machine?
+Chandler: Interestingly enough her leaf blower picked up.
+Annotation: 2 2 2
+
+
+Original:
+Rachel: Get down?
+Chandler: ...And boogie!
+Modified:
+Rachel: You are saying I should get down?
+Chandler: ...And boogie!
+Annotation: 1 1 1
+
+
+Original:
+Monica: The green dress? Really?
+Joey: Yeah, she said you looked like Ingrid Bergman that day.
+Modified:
+Monica: She thought I looked pretty in the green dress? Really?
+Joey: She said you looked like Ingrid Bergman that day.
+Annotation: 1 4 4
+
+
+Original:
+Monica: Really?
+Rachel: Yeah! Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.
+Modified:
+Monica: Really? You’re okay?
+Rachel: Y'know, ever since I ran out on Barry at the wedding, I have wondered whether I made the right choice. And now I know.
+Annotation: 4 4 4
+
+
+Original:
+Rachel: You don't know?!
+Chandler: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+Modified
+Rachel: You don't know if you want a second date with her?!
+Chandler: Well, she seems very nice and everything, but that whole thing about her coming all the way down here, just to see if I was okay? I mean,... how needy is that?
+Annotation: 2 2 2
+
+
+Original:
+Barry: Both of you?
+Mindy: Basically, we think you're a horrible human being, and bad things should happen to you.
+Modified:
+Barry: You are breaking up with me… Both of you?
+Mindy: Basically, we think you're a horrible human being, and bad things should happen to you.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: Even when we were having sex in that chair?
+Barry: (to Mindy) I swear, whatever I was doing, I was always thinking of you.
+Modified:
+Rachel: Mindy was the one for you, even when we were having sex in that chair?
+Barry: I swear, whatever I was doing, I was always thinking of you, Mindy.
+Annotation: 1 1 1
+
+
+Season 1 - Episode 21
+Original:
+Woman: (Fake Monica) Monana?
+Monica: Yeah. It's Dutch.
+Modified:
+Woman: Your name is Monana?
+Monica: It's Dutch.
+Annotation: 1 1 1
+
+
+Original:
+Teacher: You by the door. In or out?
+Monica: In. (She joins in the dancing. She still flounders)
+Modified:
+Teacher: You by the door. Are you in?
+Monica: In.
+Annotation: 1 1 1
+
+
+Original:
+Teacher: You by the door. In or out?
+Monica: In. (She joins in the dancing. She still flounders)
+Modified:
+Teacher: You by the door. Are you out?
+Monica: In.
+Annotation: 2 2 2
+
+
+Original:
+Joey: Did you call the cops?
+Rachel: Nope. We took her to lunch.
+Modified:
+Joey: Did you call the cops on her?
+Rachel: We took her to lunch.
+Annotation: 2 2 2
+
+
+Original:
+Fake Monica: There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Whaddya say?
+Monica: Nononononono. Think who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.
+Modified:
+Fake Monica: There's an open call for Cats. I'm thinking we go down there, sing Memories and make complete fools of ourselves. Are you up for it?
+Monica: Remember who you're dealing with here. I mean, I'm not like you. I-I can't even stand in front of a tap class.
+Annotation: 2 4 4
+
+
+Original:
+Chandler: How about Joey... Pepponi?
+Joey: No, still too ethnic. My agent thinks I should have a name that's more neutral.
+Modified:
+Chandler: How about Joey... Pepponi? Do you want to use that name?
+Joey: Still too ethnic. My agent thinks I should have a name that's more neutral.
+Annotation: 2 2 2
+
+
+Original:
+Dr. Baldhara: Even if he were... cornered?
+Ross: Well I, I don't know. Why?
+Modified:
+Dr. Baldhara: He is still docile, even if he were... cornered?
+Ross: Well I, I don't know. Why?
+Annotation: 4 4 4
+
+
+Season 1 - Episode 22
+Original:
+Chandler: They do?
+Phoebe: Uh huh. But they're not your friends anymore.
+Modified:
+Chandler: They still say I’m a great boss?
+Phoebe: Uh huh. But they're not your friends anymore.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: Pirates again?
+Phoebe: No, nothing like that. I was just...such a dummie. I taught this "massage-yourself-at-home-workshop." And they are.
+Modified:
+Chandler: Pirates stole your massage clients?
+Phoebe: Nothing like that. I was just...such a dummie. I taught this "massage-yourself-at-home-workshop." And they are.
+Annotation: 2 2 2
+
+
+Season 1 - Episode 23
+Original:
+Chandler: All right. I'll tell you what. When we're 40, if neither one of us are married, what do you say you and I get together and have one?
+Monica: Why won't I be married when I'm 40?
+Modified:
+Chandler: When we're 40, if neither one of us are married, do you wanna get together and have one?
+Monica: Why won't I be married when I'm 40?
+Annotation: 4 4 4
+
+
+Original:
+Guy: Your mom called me. So is this her?
+Lydia: No, this is a loaner.
+Modified:
+Guy: So is this yours?
+Lydia: This is a loaner.
+Annotation: 2 2 2
+
+
+Original:
+Chandler: (to nurse) Let me ask you, do you have to be Carol's lesbian life partner?
+Nurse: Out!
+Modified:
+Chandler: Let me ask you, do you have to be Carol's lesbian life partner to stay in here?
+Nurse: Out!
+Annotation: 4 4 4
+
+
+Original:
+Rachel: (anxiously) No, no, not at the moment, no, I'm not. Are you?
+Dr. Franzblau: No, it's hard enough to get women to go out with me.
+Modified:
+Rachel: Are you involved with anyone?
+Dr. Franzblau: It's hard enough to get women to go out with me.
+Annotation: 2 2 2
+
+
+Original:
+Monica: Ross, can I?
+Ross: The head, the head. You gotta…
+Modified:
+Monica: Ross, can I hold him?
+Ross: The head, the head. You gotta…
+Annotation: 1 1 1
+
+
+Season 1 - Episode 24
+Original:
+Joey: The country?
+Ross: No no, this big pile of dishes in my mom's breakfront. Do you guys know who Carl is?
+Modified:
+Joey: You mean China, the country?
+Ross: This big pile of dishes in my mom's breakfront.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: Here, look, alright, does this help?
+Rachel: Noooo... look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later. (opens door)
+Modified:
+Phoebe: Here, look, alright, does this picture help you know what you will say to him?
+Rachel: Look, all I know is that I cannot wait a week until I see him. I mean, this is just too big. Y'know, I just, I've just gotta talk to him. I... I gotta... OK, I'll see you later.
+Annotation: 4 4 4
+
+
+Original:
+Chandler: Really? So, you're gonna stick with this 'it's all for her' thing?
+Joey: What, are you crazy? When a blind man gets his sight back, does he walk around like this? (Joey closes his eyes and walks around with arms spread.)
+Modified:
+Chandler: Really? So, you're gonna stick with this 'it's all for her' thing?
+Joey: What, are you crazy? When a blind man gets his sight back, does he walk around like he’s still blind?
+Annotation: 2 2 2
+
+
+Original:
+Ross: Can't do it, can you?
+Rachel: So I'm thinking about you. So what?
+Modified:
+Ross: Can't stop thinking about me, can you?
+Rachel: So I'm thinking about you. So what?
+Annotation: 2 2 2
+
+
+Original:
+Monica: From here to the airport?
+Chandler: Yes! (Rachel walks towards door) You're never gonna make it!
+Modified:
+Monica: You mean the time difference from here to the airport?
+Chandler: You're never gonna make it!
+Annotation: 1 1 5
+
+
+Season 2 - Episode 1
+Original:
+Chandler: Hey, Rach, can I get...
+Rachel: Did you talk to him?
+Modified:
+Chandler: Hey, Rach, can I get?...
+Rachel: Did you talk to him?
+Annotation: 4 5 5
+
+
+Original:
+Ross:  The screaming guy?
+Julie:  And the spitting?
+Modified:
+Ross:  Remember the screaming guy?
+Julie:  And the spitting?
+Annotation: 1 1 1
+
+
+Original:
+Julie: Really?
+Phoebe: You wanna do it right now?
+Modified:
+Julie: Really? You can do that?
+Phoebe: You wanna do it right now?
+Annotation: 1 1 1
+
+
+Original:
+Joey: Ooh, that bad, huh? 
+Rachel: What?
+Modified:
+Joey: Ooh, it’s that bad, huh? 
+Rachel: What?
+Annotation: 4 4 4
+
+
+Original:
+Joey: Ooh, that bad, huh? 
+Rachel: When I saw him get off that plane with her, I really thought I hit rock bottom. But today, it's like there's rock bottom, 50 feet of crap, then me.
+Modified:
+Joey: Ooh, it’s that bad, huh? 
+Rachel: When I saw him get off that plane with her, I really thought I hit rock bottom. But today, it's like there's rock bottom, 50 feet of crap, then me.
+Annotation: 1 1 1
+
+
+Original:
+Joey: Whoa, whoa. And the fact that you dumped him because he hit on Phoebe?
+Rachel: Oh God, I know I'm a pathetic loser.
+Modified:
+Joey: You remember the fact that you dumped him because he hit on Phoebe?
+Rachel: Oh God, I know I'm a pathetic loser.
+Annotation: 1 1 1
+
+
+Original:
+Julie:  And the spitting?
+Ross: You gotta hear this story.
+Modified:
+Julie:  And remember the spitting?
+Ross: You gotta hear this story.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: God?
+Ross: It was you, pal.
+Modified:
+Chandler: Was it God?
+Ross: It was you, pal.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: Oh, ok. How, it's been so long since you've had sex, you're wondering if they've changed it?
+Monica: No, although now that's what I'm thinking.
+Modified:
+Phoebe: You’re thinking how, it's been so long since you've had sex, you're wondering if they've changed it?
+Monica: Although now that's what I'm thinking.
+Annotation: 2 4 2
+
+
+Original:
+Rachel: Really?
+Ross: You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know? Someone who wakes up every morning thinking "Oh my god, I'm with Rachel". You know, someone who makes you feel good, the way I am with Julie. (Rachel has moved closer, but hearing that she starts to back up.) Was there a second of all?
+Modified:
+Rachel: Really? You think I’m too good for him?
+Ross: You deserve to be with someone who appreciates you, and who gets how funny and sweet and amazing, and adorable, and sexy you are, you know? Someone who wakes up every morning thinking "Oh my god, I'm with Rachel". You know, someone who makes you feel good, the way I do with Julie.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 2
+Original:
+Phoebe: Not even if you just pretend that it's milk?
+Ross: Not even if Carol's breast had a picture of a missing child on it.
+Modified:
+Phoebe: You won’t taste it? Not even if you just pretend that it's milk?
+Ross: Not even if Carol's breast had a picture of a missing child on it.
+Annotation: 2 2 2
+
+
+Original:
+Rachel: Really? Me?
+Julie: Yes. Oh my god, are you kidding? Ross is so crazy about you, and I really wanted you to like me, and, it's probably me being totally paranoid, but I kinda got the feeling that maybe you don't.
+Modified:
+Rachel: Really? You’re intimidated by me?
+Julie: Oh my god, are you kidding? Ross is so crazy about you, and I really wanted you to like me, and, it's probably me being totally paranoid, but I kinda got the feeling that maybe you don't.
+Annotation: 1 1 4
+
+
+Season 2 - Episode 3
+Original:
+CHANDLER: Is it--?
+JANICE: Is it yours? Ha! You wish, Chandler Bing. You are looking at a married lady now.
+Modified:
+CHANDLER: Is it-- my child?
+JANICE: Is it yours? Ha! You wish, Chandler Bing. You are looking at a married lady now.
+Annotation: 2 2 2
+
+
+Season 2 - Episode 4
+Original:
+RACHEL: Uh, OK, I mean uh, what, how are you gonna handle it. I mean, are, are ya gonna, are ya gonna talk about it before hand, are you just gonna pounce?
+ROSS: I uh, I don't know, I guess I'm just gonna see, see what happens.
+Modified:
+RACHEL: Uh, OK, I mean uh, what, how are you gonna handle it. I mean, are, are ya gonna, are ya gonna talk about it before hand?
+ROSS: I uh, I don't know, I guess I'm just gonna see, see what happens.
+Annotation: 4 4 4
+
+
+Original:
+ROSS: Really?
+RACHEL: Yeah, I mean, you know it, I mean, if it were me I, I, you know, I'd want you to, I don't know, like catch me off guard, you know, with like a really good kiss, you know really, sort of um, soft at first, then maybe um brush the hair away from my face, and look far into my eyes in a way that let's me know that something amazing is about to happen.
+Modified:
+ROSS: Really? Women really like the spontaneous thing?
+RACHEL: I mean, you know it, I mean, if it were me I, I, you know, I'd want you to, I don't know, like catch me off guard, you know, with like a really good kiss, you know really, sort of um, soft at first, then maybe um brush the hair away from my face, and look far into my eyes in a way that let's me know that something amazing is about to happen.
+Annotation: 1 1 1
+
+
+Original:
+JULIE: Yeah?
+CHANDLER: Sorry, you had a paleontologist on your face. But, uh, it's gone now, you're alright.
+Modified:
+JULIE: Yeah? Did you want to say something to me?
+CHANDLER: Sorry, you had a paleontologist on your face. But, uh, it's gone now, you're alright.
+Annotation: 1 1 2
+
+
+Original:
+RACHEL: So. I mean, who here does not have the time to get to know Julie?
+CHANDLER: I got the time to get to know Julie.
+Modified:
+RACHEL: So. I mean, do you have the time to get to know Julie?
+CHANDLER: I got the time to get to know Julie.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: So. I mean, who here does not have the time to get to know Julie?
+JOEY: I got time.
+Modified:
+RACHEL: So. I mean, do you have the time to get to know Julie?
+JOEY: I got time.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: So. I mean, who here does not have the time to get to know Julie?
+MONICA: Rach, I know her pretty well, can I go? [Rachel gives her a look from hell] That's fine.
+Modified:
+RACHEL: So. I mean, do you have the time to get to know Julie?
+MONICA: Rach, I know her pretty well, can I go?
+Annotation: 4 4 4
+
+
+Original:
+JOEY: The Ice Capades?
+CHANDLER: No, no the gravel capades. Yeah, the turns aren't as fast but when Snoopy falls. . . funny.
+Modified:
+JOEY: You mean the Ice Capades?
+CHANDLER: The gravel capades. The turns aren't as fast but when Snoopy falls. . . funny.
+Annotation: 2 2 2
+
+
+Original:
+RACHEL: Wow. Is it, is it 'cause she's so cold in bed. Or, or is it 'cause she's like, kinda bossy, makes it feel like school?
+ROSS: No, no, she's great and it's not like we haven't done anything. I mean, uh, uh, we, we do plenty of other stuff, lot's of other stuff, like uhh. . .
+Modified:
+RACHEL: Is it, is it 'cause she's so cold in bed that you are not having sex?
+ROSS: She's great and it's not like we haven't done anything. I mean, uh, uh, we, we do plenty of other stuff, lot's of other stuff, like uhh. . .
+Annotation: 4 4 2
+
+
+Original:
+ROSS: Sexy?
+RACHEL: Let me tell you something. As a woman there is nothing sexier than a man who does not want to have sex.
+Modified:
+ROSS: You think it’s sexy, if he doesn’t want sex?
+RACHEL: Let me tell you something. As a woman there is nothing sexier than a man who does not want to have sex.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: Really?
+RACHEL: Oh yeah, I don't care how much she tells you she wants it, I don't care if begs, she pleads, she tells you she, she's gonna have sex with, with another man. That just means it's working.
+Modified:
+ROSS: Really? You would wait?
+RACHEL: I don't care how much she tells you she wants it, I don't care if begs, she pleads, she tells you she, she's gonna have sex with, with another man. That just means it's working.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 5
+Original:
+ROSS: You ever figure out what that thing's for?
+CHANDLER: No, see, I'm trying this new screening thing. You know, I figure if I'm always answering the phone, people'll think I don't have a life. My god, Rodrigo never gets pinned.
+Modified:
+ROSS: You ever figure out what the phone’s for?
+CHANDLER: See, I'm trying this new screening thing. You know, I figure if I'm always answering the phone, people'll think I don't have a life.
+Annotation: 4 4 4
+
+
+Original:
+JOEY: Do we need a cake?
+CHANDLER: Look guys, I know it's a little steep.
+Modified:
+JOEY: Do we need a cake?
+CHANDLER: Look guys, I know it's a little steep. But it's Ross.
+Annotation: 1 1 1
+
+
+Original:
+MONICA: Uh, wait, backstage?
+STEVE: Oh, yeah, my firm represents the band.
+Modified:
+MONICA: Uh, wait, you’re going backstage?
+STEVE: Oh, my firm represents the band.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 6
+Original:
+TRANSIT AUTHORITY GUY: He's here. (Chandler and Joey hug each other in relief) I'm assuming one of you is the father.
+CHANDLER: That's me.
+Modified:
+TRANSIT AUTHORITY GUY: I'm assuming one of you is the father?
+CHANDLER: That's me.
+Annotation: 1 1 1
+
+
+Original:
+TRANSIT AUTHORITY GUY: He's here. (Chandler and Joey hug each other in relief) I'm assuming one of you is the father.
+JOEY: I'm him.
+Modified:
+TRANSIT AUTHORITY GUY: I'm assuming one of you is the father?
+JOEY: I'm him.
+Annotation: 1 1 1
+
+
+Original:
+JOEY: Hey, look, since we're neighbors and all, what do you say we uh, get together for a drink?
+GIRL 1: So uh, you wanna go to Marquel's?
+Modified:
+JOEY: Hey, look, since we're neighbors and all, you wanna get together for a drink?
+GIRL 1: So uh, you wanna go to Marquel's?
+Annotation: 1 1 1
+
+
+Original:
+ROSS: Kiwi? Kiwi? I thought it was a key lime pie.
+MONICA: No I didn't, I said kiwi lime. That's what makes it so special.
+Modified:
+ROSS: You said it was a key lime pie?
+MONICA: I didn't, I said kiwi lime. That's what makes it so special.
+Annotation: 2 2 2
+
+
+Original:
+JOEY: You got a better idea?
+CHANDLER: All right, call it in the air.
+Modified:
+JOEY: You got a better idea than flipping a coin?
+CHANDLER: All right, call it in the air.
+Annotation: 2 2 2
+
+
+Original:
+PHOEBE: Really?
+RACHEL: Yeah. Who's workin' for you babe?
+Modified:
+PHOEBE: Really? You got me the job?
+RACHEL: Who's workin' for you babe?
+Annotation: 1 4 1
+
+
+Original:
+RACHEL: Do you?
+PHOEBE: No. This whole like playing-for-money thing is so not good for me. You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five. But then, "Smelly Cat", I got 25 cents and a condom. So you know, now I just feel really bad for Smelly Cat.
+Modified:
+RACHEL: Do you feel better?
+PHOEBE: This whole like playing-for-money thing is so not good for me. You know, I don't know, when I sang "Su-Su-Suicide", I got a dollar seventy-five. But then, "Smelly Cat", I got 25 cents and a condom. So you know, now I just feel really bad for Smelly Cat.
+Annotation: 2 2 4
+
+
+Original:
+ROSS: I'm gonna get a new band-aid. Hey, how 'bout the time I cut the legs off your Malibu Ken?
+MONICA: That was you?
+Modified:
+ROSS: Hey, remember the time I cut the legs off your Malibu Ken?
+MONICA: That was you?
+Annotation: 4 1 1
+
+
+Original:
+MONICA: That was you?
+ROSS: They, uh, were infected. He wouldn't have made it.
+Modified:
+MONICA: That was you? You cut the legs off my Malibu Ken?
+ROSS: They, uh, were infected. He wouldn't have made it.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 7
+Original:
+ROSS: [reluctantly] Can I come over tomorrow and pick up Fluffy Meowington's cat toy.
+MNCA: Alright.
+Modified:
+ROSS: Can I come over tomorrow and pick up Fluffy Meowington's cat toy?
+MNCA: Alright.
+Annotation: 1 1 1
+
+
+Original:
+MICH: Fruitflies?
+RACH: Yes! Thank you.
+Modified:
+MICH: You mean fruitflies?
+RACH: Thank you.
+Annotation: 4 1 1
+
+
+Season 2 - Episode 8
+Original:
+RTST: Yeah?
+MNCA: [disgusted, trying not to show it] I love how it crumbles. Now see, your chocolate doesn't do that.
+Modified:
+RTST: Yeah? You like it?
+MNCA: I love how it crumbles. Now see, your chocolate doesn't do that.
+Annotation: 1 1 1
+
+
+Original:
+RACH: Really?
+ROSS: Really. It's always been you, Rach.
+Modified:
+RACH: Really? You broke up with Julie?
+ROSS: Really. It's always been you, Rach.
+Annotation: 1 1 1
+
+
+Original:
+RACH: Kind of ditzy? Too into her looks? Spoiled?
+ROSS: Now that's a little spoiled. He was supposed to type "little", the idiot.
+Modified:
+RACH: You said that I am spoiled?
+ROSS: Now that's a little spoiled. He was supposed to type "little", the idiot.
+Annotation: 1 1 3
+
+
+Original:
+RACH: Just a waitress?
+ROSS: No, that, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?
+Modified:
+RACH: You said that I’m just a waitress?
+ROSS: That, that was, I mean, as opposed to uh, the uh, ok. Is this over yet Rach?
+Annotation: 1 1 1
+
+
+Original:
+ROSS: No?
+RACH: That's what I said.
+Modified:
+ROSS: No? You won’t give me another chance?
+RACH: That's what I said.
+Annotation: 2 2 1
+
+
+Original:
+PHOE: Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?
+RACH: Oh, it ended very well.
+Modified:
+PHOE: We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well?
+RACH: Oh, it ended very well.
+Annotation: 1 1 1
+
+
+Original:
+PHOE: Ok, all right. We want to hear everything. Monica, get the wine and unplug the phone. Rachel, does this end well or do we need to get tissues?
+RACH: Oh, it ended very well.
+Modified:
+PHOE: We want to hear everything. Monica, get the wine and unplug the phone. Rachel, do we need to get tissues?
+RACH: Oh, it ended very well.
+Annotation: 2 2 2
+
+
+Original:
+PHOE: Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a "I gotta have you now" kind of thing?
+RACH: Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+Modified:
+PHOE: Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips?
+RACH: Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+Annotation: 2 2 2
+
+
+Original:
+PHOE: Ok, all right, let's hear about the kiss. Was it like, was it like a soft brush against your lips? Or was it like a, you know, a "I gotta have you now" kind of thing?
+RACH: Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+Modified:
+PHOE: Ok, all right, let's hear about the kiss. Was it like a, you know, a "I gotta have you now" kind of thing?
+RACH: Well, at first it was really intense, you know. And then, oh, god, and then we just sort of sunk into it.
+Annotation: 1 1 1
+
+
+Original:
+PHOE: Ok, so, ok, was he holding you? Or was his hand like on your back?
+RACH: No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+Modified:
+PHOE: Ok, so, ok, was he holding you?
+RACH: Actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+Annotation: 4 4 4
+
+
+Original:
+PHOE: Ok, so, ok, was he holding you? Or was his hand like on your back?
+RACH: No, actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+Modified:
+PHOE: Ok, so, ok, was his hand like on your back?
+RACH: Actually first they started on my waist. And then, they slid up, and then, they were in my hair.
+Annotation: 2 2 2
+
+
+Original:
+RTST: Really?
+MNCA: Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.
+Modified:
+RTST: Really? You love it?
+MNCA: Especially the after taste, you know, I'll tell ya, that'll last ya till Christmas.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: I know, I know, it's, it's almost...[turns around, sees Chandler and Joey] What do you say we go take a walk, just us, not them?
+RACH: Let me get my coat.
+Modified:
+ROSS: Do you want to take a walk, just us, not them?
+RACHEL: Let me get my coat.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 9
+Original:
+PHOEBE: Yeah?
+CHANDLER: Yeah, and someday when you're ready, you'll make it past the hedges.
+Modified:
+PHOEBE: Yeah? You think I took a big step today?
+CHANDLER: And someday when you're ready, you'll make it past the hedges.
+Annotation: 1 1 4
+
+
+Original:
+ROSS: Hey Rach. I, uh, got you a little present. [Rachel is not impressed]. . I'll open it. It's a Slinky! Remember, huh. [sings] Walks down stairs, alone or in pairs, everyone knows it's. . . just a big spring. Alright, you still mad at me becuase of the whole. . .
+RACHEL: Horrible and degrading list of reasons not to be with me?
+Modified:
+ROSS: Alright, you still mad at me becuase of the whole?. . .
+RACHEL: Horrible and degrading list of reasons not to be with me?
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: Horrible and degrading list of reasons not to be with me?
+ROSS: How 'bout from now on we just call it the 'unfortunate incident'? [Rachel walks off] Hey Gunther, you got stairs in your place?
+Modified:
+RACHEL: You mean the horrible and degrading list of reasons not to be with me?
+ROSS: How 'bout from now on we just call it the 'unfortunate incident'?
+Annotation: 1 1 4
+
+
+Original:
+ROSS: Yeah?
+MONICA: Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy.
+Modified:
+ROSS: Yeah? You think it’s gorgeous?
+MONICA: Look at these authentic fake medals. I tell ya, mom's gonna be voted best dressed at the make-believe military academy.
+Annotation: 4 4 4
+
+
+Original:
+CHANDLER: OK. [reads paper] Brake left, gas right?
+PHOEBE: Uh-huh, yeah, that's my cheat sheet.
+Modified:
+CHANDLER: You have a note in the car saying brake left, gas right?
+PHOEBE: Uh-huh, that's my cheat sheet.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 10
+Original:
+PHOE: Ohh, ohh, Lorne Green?
+CHAN: No, no, Phoebs. You know why? Cause he's dead.
+Modified:
+PHOE: Ohh, ohh, Lorne Green is back in show business?
+CHAN: Phoebs. He's dead.
+Annotation: 2 2 2
+
+
+Original:
+RACH: Uhh.... waitressing?
+PHOE: Well, yeah, but... no. I mean, umm... doesn't.... doesn't Russ just remind you of someone?
+Modified:
+RACH: Uhh.... You mean I’m waitressing?
+PHOE: Well, but... I mean, umm... doesn't.... doesn't Russ just remind you of someone?
+Annotation: 4 4 4
+
+
+Original:
+ROSS: Oh you do, do you?
+RUSS: Um-hum, you're jealous.
+Modified:
+ROSS: Oh you think you know what my problem is, do you?
+RUSS: Um-hum, you're jealous.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: What's going on, is... uh, Bobby drinking again?
+MNCA: Oh no no, this is not for him, this is for me. That way he's still sober but I find his stories about shoelaces much more amusing.
+Modified:
+ROSS: Is Bobby drinking again?
+MNCA: These drinks are not for him, they are for me. That way he's still sober but I find his stories about shoelaces much more amusing.
+Annotation: 2 2 2
+
+
+Season 2 - Episode 11
+Original:
+ROSS: Would it matter?
+MONICA: Oh, you are so great! [kisses him] Thank you!
+Modified:
+ROSS: Would it matter, if it was a problem?
+MONICA: Oh, you are so great! Thank you!
+Annotation: 4 4 5
+
+
+Original:
+CAROL: You do?
+ROSS: Look, do you love her? And you don't have to be too emphatic about this.
+Modified:
+CAROL: You do? You think she’s right?
+ROSS: Look, do you love her? And you don't have to be too emphatic about this.
+Annotation: 4 4 4
+
+
+Original:
+SUSAN: You wanna dance?
+ROSS: No, that's fine.
+Modified:
+SUSAN: You wanna dance?
+ROSS: That's fine.
+Annotation: 1 2 2
+
+
+Original:
+ROSS: Oh, you and me?
+CAROL: Uh, no, Susan and me.
+Modified:
+ROSS: Oh, you mean you and me?
+CAROL: Uh, Susan and me.
+Annotation: 2 2 2
+
+
+Original:
+ROSS: As in, "I now pronounce you wife and wife" married?
+CAROL: Anyway, we'd like you to come, but we totally understand if you don't want to.
+Modified:
+ROSS: You’re getting married as in, "I now pronounce you wife and wife" married?
+CAROL: Anyway, we'd like you to come, but we totally understand if you don't want to.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 12-13
+Original:
+JOEY: Chandler? What're you still doin' here, I though you guys took off.
+CHANDLER: Oh, no no no, she took off with my clothes.
+Modified:
+JOEY: What're you still doin' here, I though you guys took off?
+CHANDLER: Oh, she took off with my clothes.
+Annotation: 2 2 2
+
+
+Original:
+ROSS: Uhh, hey look, I don't really enjoy being with other men that way. But, um, zoo dollars?
+JANITOR: It's about your monkey. It's alive.
+Modified:
+ROSS: But, um, do you want some zoo dollars?
+JANITOR: It's about your monkey. It's alive.
+Annotation: 5 4 2
+
+
+Original:
+ROSS: Buddy, my monkey?
+JANITOR: Oh, yeah, right. There was a break-in, few months back, inside job. Your monkey was taken.
+Modified:
+ROSS: Buddy, were you gonna tell me about my monkey?
+JANITOR: Oh, right. There was a break-in, few months back, inside job. Your monkey was taken.
+Annotation: 1 1 1
+
+
+Original:
+CHANDLER: Do you know me or are you just really good at this game?
+SUSIE: I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse. 
+Modified:
+CHANDLER: Do you know me?
+SUSIE: I'm Susie Moss. Fourth grade, glasses, I used to carry around a box of animal crackers like a purse. 
+Annotation: 1 1 1
+
+
+Original:
+CHANDLER: Hey, do you want this done quick, or do you want this done right?
+SUSIE: Alright, turn around. Time to see you from behind.
+Modified:
+CHANDLER: Hey, do you want this done quick?
+SUSIE: Alright, turn around. Time to see you from behind.
+Annotation: 4 4 4
+
+
+Original:
+CHANDLER: Rhythm?
+JOEY: No, my first fan mail.
+Modified:
+CHANDLER: What did you get? Rhythm?
+JOEY: My first fan mail.
+Annotation: 2 2 2
+
+
+Original:
+ROSS: Zoo dollars?
+LIPSON: Yes, and come see the bird show at 4. The macaws wear hats. Well it's a lot cuter if your monkey hasn't just died.
+Modified:
+ROSS: You’re giving me zoo dollars?
+LIPSON: And come see the bird show at 4. The macaws wear hats.
+Annotation: 1 1 1
+
+
+Original:
+SUSIE: Chandler Bing?
+CHANDLER: Do you know me or are you just really good at this game?
+Modified:
+SUSIE: Are you Chandler Bing?
+CHANDLER: Do you know me or are you just really good at this game?
+Annotation: 1 1 1
+
+
+Original:
+DIRECTOR'S ASSISTANT: Is it bad?
+SUSIE: It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan.
+Modified:
+DIRECTOR'S ASSISTANT: She refuses to acknowledge that she has a moustache? Is it bad?
+SUSIE: It looks like one of her eyebrows fell down. Now unless someone convinces her to let me bleach it, Jean-Claude Van Damme is gonna be making out with Gabe Kaplan.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: Ya think?
+MONICA: The muscles from Brussels, wham bam Van Damme, did you see Time Cop?
+Modified:
+RACHEL: Ya think he’s hot?
+MONICA: The muscles from Brussels, wham bam Van Damme, did you see Time Cop?
+Annotation: 4 4 1
+
+
+Season 2 - Episode 14
+Original:
+INTERVIEWER: And if I want to call for a reference on your last job?
+MONICA: Oh, that's there on the bottom, see the manager, Chandler Bing.
+Modified:
+INTERVIEWER: And can I call for a reference on your last job?
+MONICA: Oh, that's there on the bottom, see the manager, Chandler Bing.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: Saving, saving, saving me from the pleasant conversation with the interesting man, saving me?
+ROSS: Oh, see from where I was sitting I uh. . .
+Modified:
+RACHEL: You mean you’re saving, saving, saving me from the pleasant conversation with the interesting man, saving me?
+ROSS: Oh, see from where I was sitting I uh. . .
+Annotation: 4 4 4
+
+
+Season 2 - Episode 15
+Original:
+MONICA: Really Phoebs? Because, you know, you'd have to be an actual waitress. This can't be like your 'I can be a bear cub' thing.
+PHOEBE: I can be a waitress. OK watch this. Um, gimme two number ones, 86 the bacon, one Adam and Eve on a raft and rick'em, la-la-la-la-la, la-la-la-la-la.
+Modified:
+MONICA: Really Phoebs? You can be a waitress?
+PHOEBE: I can be a waitress. OK watch this. Um, gimme two number ones, 86 the bacon, one Adam and Eve on a raft and rick'em, la-la-la-la-la, la-la-la-la-la.
+Annotation: 1 1 1
+
+
+Original:
+MONICA: The head tilt?
+DR. BURKE: Yeah, since the divorce, when anybody asks me how I am, it's always with a sympathetic head tilt. [demonstrating] 'How ya doin'? You OK?'
+Modified:
+MONICA: You’re talking about the head tilt?
+DR. BURKE: Since the divorce, when anybody asks me how I am, it's always with a sympathetic head tilt.
+Annotation: 1 1 1
+
+
+Original:
+MONICA: Dr. Burke? I don't think so. I mean, like, he's a grown up.
+PHOEBE: So. You two are totally into each other.
+Modified:
+MONICA: You mean me and Dr. Burke? I mean, like, he's a grown up.
+PHOEBE: So. You two are totally into each other.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: Shh. Do you want cran-apple or cran-grape?
+RACHEL: Grape.
+Modified:
+ROSS: Shh. Do you want cran-apple?
+RACHEL: Grape.
+Annotation: 2 2 2
+
+
+Original:
+RACHEL: Really?
+ROSS: I've no idea, could be. Listen, I'm sorry I had to work tonight.
+Modified:
+RACHEL: Really? That is Ursa Major?
+ROSS: I've no idea, could be.
+Annotation: 4 4 4
+
+
+Original:
+JOEY: Is that the fire alarm?
+CHANDLER: Yeah. [feels the floor] Oh it's not warm yet, we still have time.
+Modified:
+JOEY: Is that the fire alarm?
+CHANDLER: Oh, the floor’s not warm yet, we still have time.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 16
+Original:
+RACHEL: Really?
+ROSS: Yeah, so uh, is it sore or can you do stuff?
+Modified:
+RACHEL: Really? You think it’s sexy?
+ROSS: So uh, is it sore or can you do stuff?
+Annotation: 4 4 1
+
+
+Original:
+ROSS: Yeah, so uh, is it sore or can you do stuff?
+RACHEL: I guess.
+Modified:
+ROSS: Yeah, so uh, is it sore?
+RACHEL: I guess.
+Annotation: 1 1 1
+
+
+
+
+Original:
+ROSS: Yeah, so uh, is it sore or can you do stuff?
+RACHEL: I guess.
+Modified:
+ROSS: Yeah, so uh, can you do stuff?
+RACHEL: I guess.
+Annotation: 1 1 1
+
+
+Original:
+PHOEBE: OK Rach, which, which lily? This lily or that lily?
+RACHEL: Well I. . .
+Modified:
+PHOEBE: OK Rach, which, which lily? This lily?
+RACHEL: Well I. . .
+Annotation: 4 4 4
+
+
+Original:
+RICHARD: Really? I'm a hero.
+MONICA: Oh, this is so hard.
+Modified:
+RICHARD: Really? You’re a twinkie? I'm a hero.
+MONICA: Oh, this is so hard.
+Annotation: 4 4 4
+
+
+Original:
+JOEY: Huh?
+JOEY'S CO-STAR: Yeah, I'm movin' to a bigger place. You should definitely take this one.
+Modified:
+JOEY: Huh? You’re asking if I want your apartment?
+JOEY'S CO-STAR: I'm movin' to a bigger place. You should definitely take this one.
+Annotation: 1 1 1
+
+
+Original:
+MONICA: Are we still on that?
+MRS. GELLER: We just know she's got the IQ of a napkin.
+Modified:
+MONICA: Are we still on the topic of Richard’s twinkie?
+MRS. GELLER: You just know she's got the IQ of a napkin.
+Annotation: 1 1 1
+
+
+Original:
+CHANDLER: So, uhh, em, you want me to uh, give you a hand with the foosball table?
+JOEY: Naa, you keep it, you need the practice.
+Modified:
+CHANDLER: So, uhh, em, you want me to uh, give you a hand with moving the foosball table?
+JOEY: You keep it, you need the practice.
+Annotation: 2 2 2
+
+
+Original:
+MRS. GELLER: A real doctor?
+MONICA: No, a doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him. [she puts her arm around Richard]
+Modified:
+MRS. GELLER: He’s a real doctor?
+MONICA: A doctor of meat. Of course he's a real doctor. And he's handsome, and he's sweet, and know you'd like him.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 17
+Original:
+JOEY: Eggs. Who's eggs do you like better, his or mine, huh?
+CHANDLER: Well I like both eggs equally.
+Modified:
+JOEY: Who's eggs do you like better? His eggs, huh?
+CHANDLER: Well I like both eggs equally.
+Annotation: 2 2 2
+
+
+Original:
+ROSS: Really?
+MONICA: Yeah. You're just gonna have to stop pissing me off.
+Modified:
+ROSS: Really? You love me now?
+MONICA: You're just gonna have to stop pissing me off.
+Annotation: 4 3 3
+
+
+Original:
+EDDIE: Hey Chan, is that Joey guy gonna come by and pick up his moose hat or should I just toss it out?
+CHANDLER: Well, uh, why don't you ask him yourself. Joey, this is my new roommate Eddie.
+Modified:
+EDDIE: Hey Chan, is that Joey guy gonna come by and pick up his moose hat?
+CHANDLER: Well, uh, why don't you ask him yourself. Joey, this is my new roommate Eddie.
+Annotation: 4 4 4
+
+
+Original:
+JOEY: You don't keep it over here on this table any more?
+CHANDLER: No, Eddie likes to keep it over there.
+Modified:
+JOEY: You don't keep it over here on this table any more?
+CHANDLER: Eddie likes to keep it over there instead.
+Annotation: 2 2 2
+
+
+Season 2 - Episode 18
+Original:
+CHANDLER: Oh, uh, he's not here right now, uh, I'm Chandler, can I take a message, or, or a fishtank?
+TILLY: Thanks.
+Modified:
+CHANDLER: Oh, uh, he's not here right now, uh, I'm Chandler, can I take a message?
+TILLY: Thanks.
+Annotation: 1 4 1
+
+
+Original:
+ROSS: Really?
+RACHEL: Oh please. That Paolo thing was barely a relationship. All it really was was just, ya know, meaningless animal sex. Ok, ya know, that sounded soooo much better in my head.
+Modified:
+ROSS: Really? You’re happier with me than you were with him?
+RACHEL: Oh please. That Paolo thing was barely a relationship. All it really was was just, ya know, meaningless animal sex. Ok, ya know, that sounded soooo much better in my head.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 19
+Original:
+MONICA: A mirror?
+JOEY: Fine, make fun. I think it's jaunty.
+Modified:
+MONICA: You’re missing a mirror?
+JOEY: Fine, make fun. I think it's jaunty.
+Annotation: 4 4 4
+
+
+Original:
+JOEY: Alright. Cab driver number two?
+ESTELLE: You're welcome.
+Modified:
+JOEY: You got me an audition for cab driver number two?
+ESTELLE: You're welcome.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: What, woah, woah, $3500 at porcelain safari?
+JOEY: My animals. Hey the guy said they suited me, he spoke with an accent, I was all confused. I don't know what I'm gonna do.
+Modified:
+ROSS: What, woah, woah, you spent $3500 at porcelain safari?
+JOEY: My animals. Hey the guy said they suited me, he spoke with an accent, I was all confused. I don't know what I'm gonna do.
+Annotation: 1 4 1
+
+
+Original:
+CHANDLER: Your last roommate's kidney?
+EDDIE: That's a tomato. This one definitely goes in the display.
+Modified:
+CHANDLER: Is that your last roommate's kidney?
+EDDIE: That's a tomato. This one definitely goes in the display.
+Annotation: 2 2 2
+
+
+Original:
+MONICA: Are you sure this time?
+CHANDLER: Yes, yes I actually saw him leave. I mean that guy is standing in the window holding a human head. He is STANDING IN THE WINDOW HOLDING A HUMAN HEAD!
+Modified:
+MONICA: Are you sure he’s gone this time?
+CHANDLER: I actually saw him leave.
+Annotation: 1 1 1
+
+
+Original:
+CHANDLER: Our next cocktail party?
+EDDIE: Yeah, you know, put chips in it, we'll make like a chip chick.
+Modified:
+CHANDLER: We’ll use it at our next cocktail party?
+EDDIE: You know, put chips in it, we'll make like a chip chick.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 20
+Original:
+MONICA: Really?
+CHANDLER: Yeah, he let us drive his Jaguar. Joey for 12 blocks, me for 15.
+Modified:
+MONICA: Really? You think he’s cool?
+CHANDLER: He let us drive his Jaguar. Joey for 12 blocks, me for 15.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: You think about stuff like that?
+ROSS: Uhh, yeah. I mean, actually I kinda think that we'll have, we'll have two babies.
+Modified:
+RACHEL: You think about stuff like that? Us having a baby?
+ROSS: I mean, actually I kinda think that we'll have, we'll have two babies.
+Annotation: 1 1 1
+
+
+Original:
+RACHEL: Two, two babies?
+ROSS: Yeah. Ya know, a boy and a girl. Hopefully the girl will come first so Ben here won't feel too competitive.
+Modified:
+RACHEL: You think we’ll have two, two babies?
+ROSS: Ya know, a boy and a girl. Hopefully the girl will come first so Ben here won't feel too competitive.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: What, the word hi?
+RACHEL: Ye-, no, my Uncle Hi.
+Modified:
+ROSS: What, he said the word hi?
+RACHEL: My Uncle Hi.
+Annotation: 2 2 5
+
+
+Original:
+ROSS: Yeah but Phoebs, what about the end?
+PHOEBE: What when Yeller saves saves the family from the wolf and everyone's happy?
+Modified:
+ROSS: Yeah but Phoebs, what about the end? Don’t you think that’s sad?
+PHOEBE: What when Yeller saves the family from the wolf and everyone's happy?
+Annotation: 3 2 2
+
+
+Original:
+PHOEBE: What when Yeller saves saves the family from the wolf and everyone's happy?
+RACHEL: That's not the end.
+Modified:
+PHOEBE: What, you mean the end when Yeller saves the family from the wolf and everyone's happy?
+RACHEL: That's not the end.
+Annotation: 2 2 2
+
+
+Season 2 - Episode 21
+Original:
+RACHEL: Time is money my friend?
+JOEY: Yeah, you missed, 'Takes money to make money,' and uh, 'Don't make me come down there and kick your wall street butt.'
+Modified:
+RACHEL: Did you say “Time is money my friend”?
+JOEY: You missed, 'Takes money to make money,' and uh, 'Don't make me come down there and kick your wall street butt.'
+Annotation: 1 4 2
+
+
+Original:
+CHANDLER: No?
+ROSS: No. Man I don't wanna have to have Joey with me every time I wanna descent cup of coffee. Ya know, and I don't wanna spend the rest of my life drinking cappucino with a 'K'. I say you and I go back down there and stand up to those guys.
+Modified:
+CHANDLER: No? Joey should not go with us?
+ROSS: Man I don't wanna have to have Joey with me every time I wanna descent cup of coffee. Ya know, and I don't wanna spend the rest of my life drinking cappucino with a 'K'. I say you and I go back down there and stand up to those guys.
+Annotation: 2 2 2
+
+
+Original:
+PHOEBE: Alright. So um, stilts huh?
+FRANK: Yeah hey, you know if you want I can take you around back and show you where he hit his head on the rain gutter.
+Modified:
+PHOEBE: So um, he liked stilts huh?
+FRANK: Hey, you know if you want I can take you around back and show you where he hit his head on the rain gutter.
+Annotation: 1 5 5
+
+
+Original:
+JOEY: By someone besides Monica?
+ROSS: No. So what. So what if we get beaten up, maybe that's just something every man has to go through once in his life. Ya know, like a, like a right of passage or somethin'.
+Modified
+JOEY: Have you ever been beaten up by someone besides Monica?
+ROSS: So what.
+Annotation: 2 4 4
+
+
+Original:
+PHOEBE: Stilts?
+FRANK: Yeah, he loved stilts. One time I was upstairs, I was stealing cigarettes out of my mom's purse, and uh, all of a sudden I look over and there's my dad's head bobbing past the window. He just had this big smile on his face and he was waving 'cause he was always happiest when he was on his stilts.
+Modified:
+PHOEBE: He talked about stilts?
+FRANK: He loved stilts. One time I was upstairs, I was stealing cigarettes out of my mom's purse, and uh, all of a sudden I look over and there's my dad's head bobbing past the window. He just had this big smile on his face and he was waving 'cause he was always happiest when he was on his stilts.
+Annotation: 1 1 1
+
+
+Original:
+MONICA: His indian name?
+PHOEBE: No because I chickened out the last time when I tried to meet him. So I mean coincidences? I don't think so.
+Modified:
+MONICA: Was that his indian name?
+PHOEBE: Because I chickened out the last time when I tried to meet him. So I mean coincidences? I don't think so.
+Annotation: 4 4 5
+
+
+Season 2 - Episode 22
+Original:
+CHANDLER: Excuse me?
+MONICA: It's a traditional Mexican custard dessert.
+Modified:
+CHANDLER: Excuse me? We’re having a birthday flan?
+MONICA: It's a traditional Mexican custard dessert.
+Annotation: 1 1 1
+
+
+Original:
+ROSS: Really?
+RACHEL: No, I knew.
+Modified:
+ROSS: Really? You had no idea?
+RACHEL: I knew.
+Annotation: 1 1 2
+
+
+Original:
+CHANDLER: Becasue it reminded you of the way our forefathers used to bitch at each other?
+RACHEL: It's just this thing. Every year we would go out on my dad's boat and watch the fireworks. Mom always hated it because the ocean air made her hair all big. My sister Jill would be throwing up over the side and my dad would be upset becasue nobody was helping and then when we did help he would scream at us for doing it wrong. But then when the fireworks started, everybody just shut up, you know, and it'd get really cold, and we would all just sort of smush under this one blanket. It never occured to anybody to bring another one. And now it's just...
+Modified:
+CHANDLER: You kept thinking about the fourth of July… Becasue it reminded you of the way our forefathers used to bitch at each other?
+RACHEL: It's just this thing. Every year we would go out on my dad's boat and watch the fireworks. Mom always hated it because the ocean air made her hair all big. My sister Jill would be throwing up over the side and my dad would be upset becasue nobody was helping and then when we did help he would scream at us for doing it wrong. But then when the fireworks started, everybody just shut up, you know, and it'd get really cold, and we would all just sort of smush under this one blanket. It never occured to anybody to bring another one. And now it's just...
+Annotation: 2 2 2
+
+
+Season 2 - Episode 23
+Original:
+CHANDLER: Jeannie, the head of east coast operations Jeannie?
+JOEY: Yeah, turns out our kids go to the same school. Small world huh?
+Modified:
+CHANDLER: You talked to Jeannie, the head of east coast operations Jeannie?
+JOEY: Turns out our kids go to the same school. Small world huh?
+Annotation: 1 1 1
+
+
+Original:
+CHANDLER: Weird world. Your kids?
+JOEY: I figure my character has kids.
+Modified:
+CHANDLER: You said your kids?
+JOEY: I figure my character has kids.
+Annotation: 1 1 1
+
+
+Season 2 - Episode 24
+Original:
+MONICA: Well, I just think the baby would keep falling off the dog. Do you, uh, do you , do you not see kids in our future.
+RICHARD: Oh, hey. I love children, I have children. I just don't want to be 70 when our kids go off to college, and our lives can finally start.
+Modified:
+MONICA: Do you, uh, do you, do you not see kids in our future?
+RICHARD: Oh, hey. I love children, I have children. I just don't want to be 70 when our kids go off to college, and our lives can finally start.
+Annotation: 2 2 1
+
+
+Original:
+MONICA: Really?
+RICHARD: Yeah, if I have to. Monica, I don't wanna lose you, so if I have to do it all over again, then I will.
+Modified:
+MONICA: Really? You would do it all again?
+RICHARD: If I have to. Monica, I don't wanna lose you, so if I have to do it all over again, then I will.
+Annotation: 3 3 3
+
+
+Original:
+RICHARD: Like a hound?
+MONICA: Not a basset, a bassinet.
+Modified:
+RICHARD: You mean like a hound?
+MONICA: Not a basset, a bassinet.
+Annotation: 2 2 2
+
+
+Season 3 - Episode 1
+Original:
+Chandler: Really?
+Joey: Oh yeah, I always picture your Mom when I'm having sex.
+Modified:
+Chandler: Really? You do it too?
+Joey: Oh, I always picture your Mom when I'm having sex.
+Annotation: 4 4 4
+
+
+Original:
+Joey: There you go! That's the spirit I'm looking for! What can we do? Huh? All right who's first? Huh? Ross?
+Ross: Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.
+Modified:
+Joey: All right who's first? Huh? Ross, you go first?
+Ross: Well I'm thinking that Chandler's our friend and Janice makes him happy, so I say we just all be adult about it and accept her.
+Annotation: 1 1 1
+
+
+Original:
+Joey: I say, 'I am there!' Cool! Aw, is Ross going to?
+Chandler: No, Janice.
+Modified:
+Joey: Aw, is Ross going to get the last ticket?
+Chandler: Janice is.
+Annotation: 2 2 2
+
+
+Season 3 - Episode 2
+Original:
+Monica: Is-is-is that message old or new? (yelling) Old or new?! Old or new?!
+Ross: It's old, it's definitely old. Didn't you hear the, the double beep?
+Modified:
+Monica: Is-is-is that message old?
+Ross: It's old, it's definitely old. Didn't you hear the, the double beep?
+Annotation: 1 1 1
+
+
+Original:
+Monica: Is-is-is that message old or new? (yelling) Old or new?! Old or new?!
+Ross: It's old, it's definitely old. Didn't you hear the, the double beep?
+Modified:
+Monica: Is-is-is that message new?
+Ross: It's old, it's definitely old. Didn't you hear the, the double beep?
+Annotation: 2 2 2
+
+
+Original:
+Rachel: (entering from her room) Okay, Pheebs, quick, what shoes should I wear? The black or the purple?
+Ross: Just, just, just pick one!
+Modified:
+Rachel: Okay, Pheebs, quick, what shoes should I wear? The black?
+Ross: Just, just, just pick one!
+Annotation: 4 4 4
+
+
+Original:
+Joey: Am I in it?
+Ross: Uh, huh. Yeah, right after I thank everyone for giving money to the museum, I sing a song about the wonder that is Joey.
+Modified:
+Joey: Am I in the speech?
+Ross: Right after I thank everyone for giving money to the museum, I sing a song about the wonder that is Joey.
+Annotation: 1 1 1
+
+
+Original:
+Ross: You will?!
+Rachel: You were really gonna do that, weren't you?
+Modified:
+Ross: You will go?
+Rachel: You were really gonna do that, weren't you?
+Annotation: 4 4 5
+
+
+Season 3 - Episode 3
+Original:
+Joey: Sperm or regular?
+Monica: Sperm.
+Modified:
+Joey: You’re going to the bank? The sperm bank?
+Monica: Sperm.
+Annotation: 1 1 1
+
+
+Original:
+Joey: Sperm or regular?
+Monica: Sperm.
+Modified:
+Joey: You’re going to the bank? The regular bank?
+Monica: Sperm.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: Really?
+Malcom: See that's just something I said now, so that maybe I could kiss you.
+Modified:
+Phoebe: Really? You were thinking what it would be like to kiss me?
+Malcom: See that's just something I said now, so that maybe I could kiss you.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: Oh well, what do you know, there goes my identical twin sister. Just walkin' along looking like me. What, is this just like a freakish coincidence, or did you know she takes this train?
+Malcom: I'm sorry. I'm sorry. I tried to stop, but I couldn't. I'm so pathetic.
+Modified:
+Phoebe: Oh well, what do you know, there goes my identical twin sister. Just walkin' along looking like me. What, did you know she takes this train?
+Malcom: I'm sorry. I'm sorry. I tried to stop, but I couldn't. I'm so pathetic.
+Annotation: 4 4 4
+
+
+Original:
+Ross: Aww, is it broken?
+Joey: No, I gotta wear this thing for a couple weeks. (points to the sling he is wearing)
+Modified:
+Ross: Aww, is your arm broken?
+Joey: I gotta wear this thing for a couple weeks.
+Annotation: 1 4 1
+
+
+Original:
+Rachel: Are you serious?
+Monica: Yeah. The great thing about the jam plan was, I was taking control of my life. So I asked myself, what is the most important thing to me in the world and that's when I came up with the baby plan.
+Modified:
+Rachel: Are you serious about getting a baby?
+Monica: The great thing about the jam plan was, I was taking control of my life. So I asked myself, what is the most important thing to me in the world and that's when I came up with the baby plan.
+Annotation: 1 1 4
+
+
+Original:
+Joey: So you're really doing this, huh?
+Monica: Oh yeah, picked a guy, 37135.
+Modified:
+Joey: So you're really doing this, huh? Getting a baby?
+Monica: Picked a guy, 37135.
+Annotation: 1 1 1
+
+
+Season 3 - Episode 4
+Original:
+Chandler: You think?
+Joey: Oh, yeah. Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!
+Modified:
+Chandler: You think I should do that?
+Joey: Go for it man, jump off the high dive, stare down the barrel of the gun, pee into the wind!
+Annotation: 1 1 1
+
+
+Original:
+Janice: We should?
+Chandler: Yep, we're a couple and that's what couples do. And, I wanna meet your parents. We should take a trip with your parents!
+Modified:
+Janice: We should take a trip?
+Chandler: We're a couple and that's what couples do. And, I wanna meet your parents. We should take a trip with your parents!
+Annotation: 1 1 1
+
+
+Original:
+Phoebe: Two?
+Joey: Yeah! Well, well really it's three. Please. You're so good at it. I love you.
+Modified:
+Phoebe: Is it only two?
+Joey: Well, well really it's three. Please. You're so good at it. I love you.
+Annotation: 2 2 2
+
+
+Season 3 - Episode 5
+Original:
+Joey: Calm down, do you want this unit or not?
+Chandler: I do NOT want this unit!!
+Modified:
+Joey: Calm down, do you want this unit?
+Chandler: I do NOT want this unit!!
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: So is it like art?
+Frank: Yeah, you can melt art. Hey, can I use your phone?
+Modified:
+Phoebe: So is it like art? This melting thing, you do?
+Frank: You can melt art.
+Annotation: 4 4 1
+
+
+Original:
+Phoebe: Um, yeah sure. Why you wanna call your Mom?
+Frank: No, I wanna melt it.
+Modified:
+Phoebe: You wanna use the phone to call your Mom?
+Frank: I wanna melt it.
+Annotation: 2 2 2
+
+
+Season 3 - Episode 6
+
+
+Season 3 - Episode 7
+Original:
+Chandler: You told him to play the boxer gay!!
+Joey: Well, I-I might’ve said supergay.
+Modified:
+Chandler: You told him to play the boxer gay?!!
+Joey: Well, I-I might’ve said supergay.
+Annotation: 1 1 1
+
+
+Original:
+Ross: We?
+Rachel: Are ah, having dinner with my Dad tomorrow night, I hope that’s okay.
+Modified:
+Ross: Did you say... we?
+Rachel: Are ah, having dinner with my Dad tomorrow night, I hope that’s okay.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: I’m sorry, let her?
+Ross: What can I do, she doesn’t listen to me about renter’s insurance either.
+Modified:
+Rachel: I’m sorry, did you say “let her”?
+Ross: What can I do, she doesn’t listen to me about renter’s insurance either.
+Annotation: 4 1 1
+
+
+Season 3 - Episode 8
+Original:
+Monica: Really?!
+Ross: Oh, and also, he’s, he’s walkin’ kind of funny, his left leg is moving a lot faster than his right leg, and he’s in there just sort of y'know... (walks around in a circle)
+Modified:
+Monica: Really?! You’re saying it’s like those letters just fell out of his head?
+Ross: Oh, and also, he’s, he’s walkin’ kind of funny, his left leg is moving a lot faster than his right leg, and he’s in there just sort of y'know...
+Annotation: 1 1 1
+
+
+Original:
+Ross: Well, he’s finally alseep. About that ah, bump on his head?
+Rachel: Are you, are you, are you sure it’s ah, a new bump? I mean, no offense, I’ve always thought of Ben as a fairly bumpy headed child.
+Modified:
+Ross: You know, about that ah, bump on his head?
+Rachel: Are you, are you, are you sure it’s ah, a new bump? I mean, no offense, I’ve always thought of Ben as a fairly bumpy headed child.
+Annotation: 1 4 4
+
+
+Original:
+Rachel: Here you go Pheebs. Who else wants one of my special homemade brownies? 
+Chandler: I will have one. (Ross and him both take one.)
+Modified:
+Rachel: Anyone else wants one of my special homemade brownies? 
+Chandler: I will have one.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: Here you go Pheebs. Who else wants one of my special homemade brownies? 
+Chandler: Okay, I’m not gonna have one.
+Modified:
+Rachel: Anyone else wants one of my special homemade brownies? 
+Chandler: Okay, I’m not gonna have one.
+Annotation: 2 2 2
+
+
+Original:
+Rachel: Here you go Pheebs. Who else wants one of my special homemade brownies? 
+Chandler: All right I’ll have one. (he and Ross take another brownie,)
+Modified:
+Rachel: Anyone else wants one of my special homemade brownies? 
+Chandler: All right I’ll have one.
+Annotation: 1 1 1
+
+
+Original:
+Ross: Hmm?
+Joey: If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?
+Modified:
+Ross: Hmm? You’ve got a science question?
+Joey: If the Homo Sapiens, were in fact ‘Homo-sapien’, is that why there extinct?
+Annotation: 1 1 1
+
+
+Season 3 - Episode 9
+Original:
+Phoebe: Well, okay, I made a touchdown. It was my first touchdown. So?
+Ross: Oh Pheebs, that’s great. It doesn’t count.
+Modified:
+Phoebe: Well, okay, I made a touchdown. It was my first touchdown. So, can it count?
+Ross: Oh Pheebs, that’s great. It doesn’t count.
+Annotation: 2 2 2
+
+
+Original:
+Margha: Which do I like?
+Ross: Yeah, y'know for dating, general merriment, taking back to your windmill...
+Modified:
+Margha: You’re asking me, which do I like?
+Ross: Y'know for dating, general merriment, taking back to your windmill...
+Annotation: 1 1 1
+
+
+Season 3 - Episode 10
+Original:
+Joey: What? Me having a job?
+Phoebe: No, no, I am against innocent trees being cut down in their prime, and their, their corpses grotesquely dressed in like tinsel and twinkly lights. (to Joey) Hey, how do you sleep at night?
+Modified:
+Joey: What? You’re against me having a job?
+Phoebe: I am against innocent trees being cut down in their prime, and their, their corpses grotesquely dressed in like tinsel and twinkly lights.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: Really?
+Chandler: Yes. Yes, and ah, ah, the trees are happy too, because for most of them, it’s the only chance to see New York.
+Modified:
+Phoebe: Really? Those trees were born to be Christmas trees, they’re fulfilling their life purpose, by, by making people happy?
+Chandler: And ah, ah, the trees are happy too, because for most of them, it’s the only chance to see New York.
+Annotation: 1 1 1
+
+
+Original:
+Ross: Mon?
+Monica: All right, I’ll take one box of the mint treasures, just one, and that’s it. I-I started gaining weight after I joined the Brown Birds. (to Ross) Remember, how Dad bought all my boxes and I ate them all?
+Modified:
+Ross: Mon? You want to buy some cookies?
+Monica: All right, I’ll take one box of the mint treasures, just one, and that’s it. I-I started gaining weight after I joined the Brown Birds.
+Annotation: 1 1 1
+
+
+Original:
+Rachel: The fear?
+Chandler: He’s right, if you quit this job, you then have motivation to go after a job you really want.
+Modified:
+Rachel: You’re saying I need the fear?
+Chandler: He’s right, if you quit this job, you then have motivation to go after a job you really want.
+Annotation: 1 4 1
+
+
+Original:
+Chandler: Something else I might have said?
+Rachel: I don’t know, I don’t know, weren’t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!
+Modified:
+Chandler: You’re thinking of something else that’s really funny. Was that something else I might have said?
+Rachel: I don’t know, I don’t know, weren’t you the guy that told me to quit my job when I had absolutely nothing else to do. Ha! Ha! Ha! Ha! Ha!!
+Annotation: 4 4 4
+
+
+Season 3 - Episode 11
+
+
+Season 3 - Episode 12
+Original:
+Ross: Mark is that ah, the same Mark that helped you get the job?
+Rachel: Yeah, it's kinda like a 'good luck on your first day' sort of thing. (to Phoebe) Is this actually a lunchbox?
+Modified:
+Ross: Mark is that ah, the same Mark that helped you get the job, that you’re having lunch with?
+Rachel: It's kinda like a 'good luck on your first day' sort of thing.
+Annotation: 1 1 1
+
+
+Season 3 - Episode 13
+
+
+Season 3 - Episode 14
+Original:
+Phoebe: Oh my God!! You threw Pepper on the fire!
+Joey: I wish. See, I guess another thing I probably should’ve told you about Ginger is that she kinda has a ah, artificial leg.
+Modified:
+Phoebe: Oh my God!! You threw Pepper on the fire?!
+Joey: I wish. See, I guess another thing I probably should’ve told you about Ginger is that she kinda has a ah, artificial leg.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: (to Chandler) Why? Because she can sing and play guitar and do both at the same time?
+Chandler: Well, that’s pretty much all I’m looking for from these people.
+Modified:
+Phoebe: Why do you like her? Because she can sing and play guitar and do both at the same time?
+Chandler: Well, that’s pretty much all I’m looking for from these people.
+Annotation: 1 1 1
+
+
+Original:
+Joey: (to Leslie) Ah, anything we might of heard of?
+Leslie: Ah, yeah, umm. (singing) Home is never far away..
+Modified:
+Joey: Ah, did you write anything we might of heard of?
+Leslie: Ah, umm. Home is never far away..
+Annotation: 1 1 1
+
+
+Season 3 - Episode 15
+Original:
+Ross: What, do you, well umm, oh how about I come up there?
+Rachel: No-no-no, no, honey please, I’ve got, I’ve just have so much to deal with.
+Modified:
+Ross: What, do you, well umm, oh should I come up there?
+Rachel: Honey please, I’ve got, I’ve just have so much to deal with.
+Annotation: 2 2 2
+
+
+Original:
+Monica: Why? (in a motherlike tone) Do you have a report due?
+Phoebe: I have a date with this diplomat I met while I was giving free massages outside the UN and, I don’t know where his country is.
+Modified:
+Monica: Why do you need an atlas? Do you have a report due?
+Phoebe: I have a date with this diplomat I met while I was giving free massages outside the UN and, I don’t know where his country is.
+Annotation: 2 2 2
+
+
+Original:
+Ross: For what? For letting you throw me out of your office?
+Rachel: You had no right coming down to my office Ross. You do not bring a picnic basket to somebody’s work! Unless maybe they were a park ranger!
+Modified:
+Ross: For what should I apologise to you? For letting you throw me out of your office?
+Rachel: You had no right coming down to my office Ross. You do not bring a picnic basket to somebody’s work! Unless maybe they were a park ranger!
+Annotation: 1 1 4
+
+
+Season 3 - Episode 16
+
+
+Season 3 - Episode 17
+Original:
+Ross: So, for the whole weekend?
+Monica: We’re really sorry, but um, she did ask us first.
+Modified:
+Ross: So, you’re going to be away for the whole weekend?
+Monica: We’re really sorry, but um, she did ask us first.
+Annotation: 1 1 1
+
+
+Original:
+Ross: What a pity stay?
+Monica: No! We’re gonna have fun. We can make fudge!
+Modified:
+Ross: What, it’s a pity stay?
+Monica: We’re gonna have fun. We can make fudge!
+Annotation: 4 4 2
+
+
+Season 3 - Episode 18
+Original:
+Frank: Okay, but isn’t sex better when it’s with one person that you really, really care about.
+Joey: Yeah, in a poem maybe.
+Modified:
+Frank: Okay, but isn’t sex better when it’s with one person that you really, really care about?
+Joey: In a poem maybe.
+Annotation: 2 2 3
+
+
+Season 3 - Episode 19
+Original:
+Rachel: Yeah?
+Ross: Yes, I do.
+Modified:
+Rachel: Yeah? You think so?
+Ross: I do.
+Annotation: 1 1 1
+
+
+Original:
+Ross: No!! Y'know-y'know don’t do me any favours. In fact, where, where’s the rest of my stuff?! Huh? Like-like my umm, (picks up a book) Hey, this book is mine!! And-and-and, and that T-shirt you sleep in? I’d like that back too. Yes, I do.
+Rachel: You know how much I love that T-shirt! You never even where that T-shirt!
+Modified:
+Ross: And-and-and, and remember that T-shirt you sleep in? I’d like that back too.
+Rachel: You know how much I love that T-shirt! You never even where that T-shirt!
+Annotation: 1 1 1
+
+
+Original:
+Pete: What like Pete Dakota?
+Phoebe: Yeah, or, or, or, Mississ-Pete.
+Modified:
+Pete: What, you mean name a state, like, Pete Dakota?
+Phoebe: Or, or, or, Mississ-Pete.
+Annotation: 4 4 1
+
+
+Original:
+The Director: Yes?
+Kate: Well, I don’t understand why Adrienne’s attracted to Victor.
+Modified:
+The Director: Yes? You have a question about the scene?
+Kate: Well, I don’t understand why Adrienne’s attracted to Victor.
+Annotation: 1 1 1
+
+
+Original:
+Ross: I knew it! I knew it! I always knew she liked him! Y'know, she’d say no, but here we are! Right? We just broke up, first thing she does!
+Chandler: You didn’t just break up.
+Modified:
+Ross: I knew it! I knew it! I always knew she liked him! Y'know, she’d say no, but here we are! Right?
+Chandler: You didn’t just break up.
+Annotation: 5 5 5
+
+
+Original:
+Kate: Yeah?
+Joey: You ah, you forgot your shoes.
+Modified:
+Kate: Yeah? Did you say something to me?
+Joey: You ah, you forgot your shoes.
+Annotation: 1 1 1
+
+
+Original:
+Ross: Still?!
+Monica: Noo!! It’s driving me crazy. I mean every other way he’s like the perfect guy, he has everything. Plus! He actually has everything.
+Modified:
+Ross: You’re still not attracted to him?
+Monica: It’s driving me crazy. I mean every other way he’s like the perfect guy, he has everything. Plus! He actually has everything.
+Annotation: 2 2 2
+
+
+Original:
+Chandler: Life-sized Imperial Storm Troopers from Sharper Image?
+Monica: Two.
+Modified:
+Chandler: He has Life-sized Imperial Storm Troopers from Sharper Image?
+Monica: Two.
+Annotation: 1 1 1
+
+
+Original:
+Monica: It’s not?
+Pete: I know I’m no John Bon Jovi, (Monica laughs) or someone who find attractive, I’m just, I think, y'know, that you might end up feeling differently.
+Modified:
+Monica: You don’t think it’s that bad, that I’m not attracted to you?
+Pete: I know I’m no John Bon Jovi… or someone you find attractive, I’m just, I think, y'know, that you might end up feeling differently.
+Annotation: 2 2 2
+
+
+Original:
+Rachel: You sure?
+Mark: Yeah. I can just go home and get back at him by myself.
+Modified:
+Rachel: You sure it’s okay?
+Mark: I can just go home and get back at him by myself.
+Annotation: 4 1 4
+
+
+Original:
+Phoebe: It isn’t?
+Chandler: No, it’s not like, like Phil Spiderman. He’s a spider, man. Y'know like ah, like Goldman is a last name, but there’s no Gold Man.
+Modified:
+Phoebe: Spiderman isn’t his last name?
+Chandler: It’s not like, like Phil Spiderman. He’s a spider, man. Y'know like ah, like Goldman is a last name, but there’s no Gold Man.
+Annotation: 2 2 2
+
+
+Season 3 - Episode 20
+Original:
+Joey: Get out of here, really?!
+Lauren: Absolutely!
+Modified:
+Joey: Get out of here, really?! You used to schedule your classes so you could watch Dr. Drake Remoray on Days of Our Lives?
+Lauren: Absolutely!
+Annotation: 1 1 1
+
+
+Original:
+Joanna: It was, wasn’t it?
+Chandler: The food there was, was great.
+Modified:
+Joanna: It was pleasant, wasn’t it?
+Chandler: The food there was, was great.
+Annotation: 4 4 1
+
+
+Original:
+Joanna: Wasn’t it?
+Chandler: So take care.
+Modified:
+Joanna: The food there was great, wasn’t it?
+Chandler: So take care.
+Annotation: 5 5 5
+
+
+Season 3 - Episode 21
+
+
+Season 3 - Episode 22
+Original:
+Rachel: You don’t?!
+Ross: No! The guy is mean. I mean really mean. I think you should stay away from him.
+Modified:
+Rachel: You don’t think I should see Tommy anymore?
+Ross: The guy is mean. I mean really mean. I think you should stay away from him.
+Annotation: 2 2 2
+
+
+Original:
+Ross: You do Pheebs?
+Phoebe: Yeah. But I also believed her (points to the phone) when she said I was next.
+Modified:
+Ross: You do Pheebs? You believe me?
+Phoebe: But I also believed her when she said I was next.
+Annotation: 1 1 1
+
+
+Season 3 - Episode 23
+Original:
+Monica: Really?!
+Joey: Yeah, maybe he just cheated on you.
+Modified:
+Monica: Really?! You think it doesn't necessarily mean that he's breaking up with me?
+Joey: Maybe he just cheated on you.
+Annotation: 2 1 2
+
+
+Original:
+Fireman: Oh sure. Vince?!
+Vince: Yo!! (slides down that pole that fire station’s have)
+Modified:
+Fireman: Vince?! Are you here?
+Vince: Yo!!
+Annotation: 1 1 1
+
+
+Original:
+Jason: No, no?
+Phoebe: Well, we don't n-n-n-n-need a fireman, we'd, we'd like a good mechanic. (hears the sound of approaching sirens) Oh my God, here they come! Well, we gotta get out of here!
+Modified:
+Jason: No, no? We shouldn’t call the fire department?
+Phoebe: Well, we don't n-n-n-n-need a fireman, we'd, we'd like a good mechanic.
+Annotation: 2 2 2
+
+
+Original:
+Ross: No?
+Dr. Rhodes: First of all, it's on your ass.
+Modified:
+Ross: No? It’s not a third nipple?
+Dr. Rhodes: First of all, it's on your ass.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe: (knocks on the door) Jason?
+Jason: Yeah, come on in.
+Modified:
+Phoebe: Jason? Are you here?
+Jason: Come on in.
+Annotation: 1 1 1
+
+
+Original:
+Monica: Yeah?
+Pete: And I feel like I’ve conquered the business world, and I feel like I’ve conquered the intellectual world, and now I-I have the most beautiful woman in the world.
+Modified:
+Monica: Yeah? You’ve been doing a lot of thinking?
+Pete: And I feel like I’ve conquered the business world, and I feel like I’ve conquered the intellectual world, and now I-I have the most beautiful woman in the world.
+Annotation: 1 1 1
+
+
+Original:
+Phoebe: Really?!
+Jason: Yeah. I mean y'know, we haven’t been going out that long. Come on, we haven’t even slept together yet. Huh.
+Modified:
+Phoebe: Really?! It’s fine with you guys, that I’ve been dating both of you?
+Jason: I mean y'know, we haven’t been going out that long. Come on, we haven’t even slept together yet.
+Annotation: 1 1 1
+
+
+Original:
+Jason: You have?
+Phoebe: Well, this is none of my business. (starts to walk away)
+Modified:
+Jason: You have slept together?
+Phoebe: Well, this is none of my business.
+Annotation: 5 4 4
+
+
+Original:
+Chandler: Was it like a sneeze only better?
+Ross: No, no, I mean, I mean a thing on my body.
+Modified:
+Chandler: What you felt, was it like a sneeze only better?
+Ross: I mean, I mean a thing on my body.
+Annotation: 2 4 5
+
+
+Original:
+Monica: Brides magazines?
+Rachel: Yes, and I know that you’d say no if he asked you, but I’m sorry; how great would you look walking down the aisle in this Donna Carin. (shows her the picture.)
+Modified:
+Monica: You brought brides magazines?
+Rachel: I know that you’d say no if he asked you, but I’m sorry; how great would you look walking down the aisle in this Donna Karan.
+Annotation: 1 1 1
+
+
+Original:
+Chandler: Oh, so you’re going with the teacher, huh?
+Phoebe: Yeah, I like Vince a lot, y'know? But, it’s just Jason’s so sensitive, y'know? And in the long run, I think sensitive it’s just better than having just like a really, really, really nice (pause) butt. (Her eyes glaze over thinking about the butt.) (pause) Jason! Definitely Jason! Okay, wish me luck!
+Modified:
+Chandler: Oh, so you’re going with the teacher, Jason, huh?
+Phoebe: I like Vince a lot, y'know? But, it’s just Jason’s so sensitive, y'know? And in the long run, I think sensitive it’s just better than having just like a really, really, really nice body...
+Annotation: 1 1 1
+
+
+Original:
+Vince: You haven’t?
+Jason: You have?
+Modified:
+Vince: You haven’t slept together yet?
+Jason: You have?
+Annotation: 4 4 4
+
+
+Season 3 - Episode 24
+Original:
+Billy: Like when you go bowling and you know you’re in somebody else’s shoes?
+Robin: That’s the one.
+Modified:
+Billy: You mean the feeling, when you go bowling and you know you’re in somebody else’s shoes?
+Robin: That’s the one.
+Annotation: 1 1 1
+
+
+
+
+Season 3 - Episode 25
+Original:
+Joey: That you’re actually 50?
+Phoebe: No-no, that’s not, that’s not me Phoebe, that’s her pal Phoebe. According to her high school yearbook, they were like B.F.F. (Ross and Bonnie look at her quizzically) Best Friends Forever.
+Modified:
+Joey: So this picture means that you’re actually 50?
+Phoebe: That’s not, that’s not me Phoebe, that’s her pal Phoebe. According to her high school yearbook, they were like B.F.F. Best Friends Forever.
+Annotation: 2 2 2
+
+
+Original:
+Phoebe Sr: You’re Erwin’s daughter?!
+Phoebe: No, I-I mean your-your old best friend, here. (hands her the picture) Lily, from high school. Remember?
+Modified:
+Phoebe Sr: If you’re my best friend's daughter, that means you’re Erwin’s daughter?
+Phoebe: I-I mean your-your old best friend, here. Lily, from high school. Remember?
+Annotation: 2 2 2
